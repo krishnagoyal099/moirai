@@ -1,0 +1,32 @@
+# Ignore target directory
+**/target/
+
+# Ignore debug artifacts
+**/debug/
+
+# Ignore build artifacts
+**/build/
+
+# Ignore dependency files
+**/deps/
+
+# Ignore incremental compilation files
+**/incremental/
+
+# Ignore Cargo.lock
+**/Cargo.lock
+
+# Ignore other temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.idea/
+.vscode/
