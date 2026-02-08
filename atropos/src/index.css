@@ -1,0 +1,424 @@
+/* ─────────────────────────────────────────────
+   Custom Font Faces
+───────────────────────────────────────────── */
+@font-face {
+  font-family: "Blore";
+  src: url("./assets/fonts/Blore.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Snuffle Solstice";
+  src: url("./assets/fonts/The Snuffle Solstice.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Snuffle Solstice";
+  src: url("./assets/fonts/The Snuffle Solstice Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@import "tailwindcss";
+
+/* ─────────────────────────────────────────────
+   GLOBAL RESET & ANTI-CLIPPING
+───────────────────────────────────────────── */
+html,
+body,
+#root {
+  height: 100vh;
+  /* Force full viewport height */
+  width: 100vw;
+  overflow: hidden;
+  /* STOP page scrolling */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Utility to force flex containers to shrink properly */
+.shrink-0 {
+  flex-shrink: 0;
+}
+
+.grow-0 {
+  flex-grow: 0;
+}
+
+/* Fix for the Red Thread Utility (Static) */
+@utility red-thread-line {
+  position: absolute;
+  left: 33.33%;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  z-index: 10;
+  background-color: var(--accent-current);
+}
+
+html {
+  /* Lenis handles smooth scrolling */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Lenis Recommended CSS */
+html.lenis,
+html.lenis body {
+  height: auto;
+  /* Allow internal scrolling where needed */
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+@theme {
+  /* --- Colors --- */
+  --color-canvas: #D0BA98;
+  --color-ink: #23140C;
+  --color-pulse: #91040C;
+
+  /* Dark Mode Colors */
+  --color-canvas-dark: #23140C;
+  --color-ink-dark: #D0BA98;
+  --color-pulse-dark: #FA8112;
+
+  /* --- Typography --- */
+  --font-heading: "Blore", "Georgia", serif;
+  --font-body: "Snuffle Solstice", "Georgia", serif;
+  --font-mono: "Fira Code", "Consolas", monospace;
+
+  /* --- Transitions --- */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-expo: cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* --- Base Styles --- */
+@layer base {
+  :root {
+    --bg-current: var(--color-canvas);
+    --text-current: var(--color-ink);
+    --accent-current: var(--color-pulse);
+    --thread-color: var(--accent-current);
+    --thread-focus: #FA8112;
+    --thread-active: #91040C;
+  }
+
+  .dark {
+    --bg-current: var(--color-canvas-dark);
+    --text-current: var(--color-ink-dark);
+    --accent-current: var(--color-pulse-dark);
+    --thread-color: var(--accent-current);
+    --thread-focus: #FA8112;
+    --thread-active: #E04020;
+  }
+
+  body {
+    background-color: var(--bg-current);
+    color: var(--text-current);
+    font-family: var(--font-body);
+    transition: background-color 0.8s var(--ease-out-expo),
+      color 0.8s var(--ease-out-expo);
+    overflow-x: hidden;
+    /* Increased global line-height to prevent clipping */
+    line-height: 1.6;
+  }
+
+  /* ─── Typography: ANTI-CLIPPING FIXES ─── */
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    /* Explicitly allow overflow for custom fonts */
+    overflow: visible;
+    /* Add padding to contain ascenders/descenders */
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    /* Tighter line height for headings but safe */
+    line-height: 1.1;
+  }
+
+  /* ─── Accessibility: Focus Styles ─── */
+  *:focus-visible {
+    outline: 1px solid var(--accent-current);
+    outline-offset: 4px;
+  }
+
+  /* ─── Selection ─── */
+  ::selection {
+    background-color: var(--accent-current);
+    color: var(--bg-current);
+  }
+}
+
+/* ─────────────────────────────────────────────
+   The Living Red Thread (Only if used)
+───────────────────────────────────────────── */
+@keyframes thread-extend {
+  from {
+    transform: scaleY(0);
+  }
+
+  to {
+    transform: scaleY(1);
+  }
+}
+
+@keyframes thread-pulse {
+
+  0%,
+  100% {
+    opacity: 0.5;
+  }
+
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes thread-glow {
+
+  0%,
+  100% {
+    box-shadow: 0 0 4px var(--thread-color);
+  }
+
+  50% {
+    box-shadow: 0 0 10px var(--thread-color), 0 0 20px var(--thread-color);
+  }
+}
+
+.red-thread-living {
+  position: absolute;
+  left: 33.33%;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  z-index: 10;
+  background-color: var(--thread-color);
+  transform-origin: top;
+  animation: thread-extend 1.4s var(--ease-out-expo) forwards;
+  transition: background-color 1s ease, box-shadow 1s ease;
+}
+
+.red-thread-living.thread-active {
+  background-color: var(--thread-active);
+  animation: thread-extend 1.4s var(--ease-out-expo) forwards,
+    thread-pulse 2.5s ease-in-out infinite;
+}
+
+.red-thread-living.thread-focus {
+  background-color: var(--thread-focus);
+  animation: thread-extend 1.4s var(--ease-out-expo) forwards,
+    thread-glow 3.5s ease-in-out infinite;
+}
+
+/* ─────────────────────────────────────────────
+   Typography (Editorial)
+───────────────────────────────────────────── */
+.editorial-prose {
+  font-family: var(--font-body);
+  line-height: 1.85;
+  font-size: 1.125rem;
+  color: var(--text-current);
+  letter-spacing: 0.01em;
+}
+
+.editorial-prose p {
+  margin-bottom: 1.5em;
+  opacity: 0.92;
+}
+
+.editorial-prose h2 {
+  font-family: var(--font-heading);
+  font-size: 2em;
+  line-height: 1.3;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  color: var(--text-current);
+  letter-spacing: 0.02em;
+  padding-top: 0.2em;
+  /* Anti-clipping padding */
+}
+
+/* ─────────────────────────────────────────────
+   Premium Scrollbar (Minimalist)
+───────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--text-current);
+  border-radius: 4px;
+  opacity: 0.2;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  opacity: 0.5;
+}
+
+/* ─────────────────────────────────────────────
+   Utilities for Animations & Effects
+───────────────────────────────────────────── */
+
+.hover-underline-draw {
+  position: relative;
+  display: inline-block;
+}
+
+.hover-underline-draw::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: currentColor;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.6s var(--ease-out-expo);
+}
+
+.hover-underline-draw:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+.glass-panel {
+  background: color-mix(in srgb, var(--bg-current) 60%, transparent);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid color-mix(in srgb, var(--text-current) 10%, transparent);
+}
+
+@layer base {
+  :root {
+    --bg-current: var(--color-canvas);
+    --text-current: var(--color-ink);
+    --accent-current: var(--color-pulse);
+    --thread-color: var(--accent-current);
+    --thread-focus: #FA8112;
+    --thread-active: #91040C;
+  }
+
+  .dark {
+    --bg-current: var(--color-canvas-dark);
+    --text-current: var(--color-ink-dark);
+    --accent-current: var(--color-pulse-dark);
+    /* ... */
+  }
+
+  body {
+    background-color: var(--bg-current);
+    color: var(--text-current);
+    font-family: var(--font-body);
+    transition: background-color 0.8s var(--ease-out-expo), color 0.8s var(--ease-out-expo);
+    overflow-x: hidden;
+    line-height: 1.6;
+  }
+
+  /* ─── Typography: AGGRESSIVE ANTI-CLIPPING ─── */
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    overflow: visible !important;
+    /* Critical */
+    line-height: 1.0 !important;
+    /* Tighter */
+    padding-top: 0.25em !important;
+    /* Space for ascenders */
+    padding-bottom: 0.25em !important;
+    /* Space for descenders */
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  /* Specifically for the huge headings */
+  .font-heading {
+    display: inline-block;
+    /* Helps with box model */
+  }
+
+  /* Specific padding for the main h1s that were getting cut */
+  h1.text-5xl,
+  h1.text-6xl,
+  h1.text-7xl,
+  h1.text-8xl {
+    padding-top: 0.4em !important;
+    padding-bottom: 0.2em !important;
+  }
+
+  /* ─── Accessibility & Selection ─── */
+  *:focus-visible {
+    outline: 1px solid var(--accent-current);
+    outline-offset: 4px;
+  }
+
+  ::selection {
+    background-color: var(--accent-current);
+    color: var(--bg-current);
+  }
+}
+
+/* ─────────────────────────────────────────────
+   Markdown Styles (for MarkdownRenderer)
+───────────────────────────────────────────── */
+.markdown-body pre {
+  overflow-x: auto;
+  border-radius: 4px;
+}
+
+.markdown-body code {
+  font-family: var(--font-mono);
+}
+
+.markdown-body ul {
+  list-style-type: disc;
+}
+
+.markdown-body ol {
+  list-style-type: decimal;
+}
+
+/* Ensure code blocks don't overflow chat bubbles */
+.markdown-body .react-syntax-highlighter {
+  background: transparent !important;
+  margin: 1rem 0 !important;
+  padding: 1rem !important;
+}

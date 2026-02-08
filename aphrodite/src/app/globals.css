@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    background-color: rgb(250, 243, 225);
+    color: rgb(34, 34, 34);
+}
+
+html {
+    scroll-behavior: auto;
+    /* Let JS/Lenis handle smoothness */
+}
+
+body {
+    overflow-x: hidden;
+    cursor: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Hide scrollbar for clean aesthetic */
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+/* Custom scrollbar for internal content (Expanded Cards) */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.text-justify-interword {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* Enable GPU acceleration globally */
+html,
+body {
+    transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
+}
