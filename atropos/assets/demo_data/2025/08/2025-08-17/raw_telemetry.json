@@ -1,0 +1,8197 @@
+{
+  "meta": {
+    "date": "2025-08-17",
+    "generated_at": "2026-02-12T14:09:22.101976Z",
+    "version": "1.0.0"
+  },
+  "metrics": {
+    "total_keystrokes": 15963,
+    "total_mouse_dist_pixels": 157024,
+    "idle_minutes": 1214,
+    "flow_score_estimate": 51,
+    "top_window": "Chrome - Documentation"
+  },
+  "events": [
+    {
+      "ts": "2025-08-17T12:18:00Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T12:18:03Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T12:18:40Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:19:17Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T12:19:52Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T12:19:52Z",
+      "type": "mouse_move",
+      "distance_px": 309
+    },
+    {
+      "ts": "2025-08-17T12:19:52Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:20:10Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T12:20:20Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T12:20:20Z",
+      "type": "mouse_move",
+      "distance_px": 509
+    },
+    {
+      "ts": "2025-08-17T12:20:56Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:20:56Z",
+      "type": "scroll",
+      "delta": 26
+    },
+    {
+      "ts": "2025-08-17T12:21:32Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:21:46Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T12:21:51Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T12:22:17Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T12:22:31Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T12:22:52Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T12:22:52Z",
+      "type": "mouse_move",
+      "distance_px": 774
+    },
+    {
+      "ts": "2025-08-17T12:23:15Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T12:23:18Z",
+      "type": "keystroke",
+      "count": 2
+    },
+    {
+      "ts": "2025-08-17T12:23:18Z",
+      "type": "mouse_move",
+      "distance_px": 216
+    },
+    {
+      "ts": "2025-08-17T12:23:53Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T12:23:58Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T12:24:03Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T12:24:39Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T12:24:39Z",
+      "type": "scroll",
+      "delta": -143
+    },
+    {
+      "ts": "2025-08-17T12:25:05Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:25:05Z",
+      "type": "mouse_move",
+      "distance_px": 424
+    },
+    {
+      "ts": "2025-08-17T12:25:11Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T12:25:11Z",
+      "type": "mouse_move",
+      "distance_px": 450
+    },
+    {
+      "ts": "2025-08-17T12:25:11Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:25:23Z",
+      "type": "focus_change",
+      "title": "Obsidian",
+      "process": "obsidian"
+    },
+    {
+      "ts": "2025-08-17T12:25:23Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:25:23Z",
+      "type": "mouse_move",
+      "distance_px": 295
+    },
+    {
+      "ts": "2025-08-17T12:25:45Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T12:25:45Z",
+      "type": "mouse_move",
+      "distance_px": 593
+    },
+    {
+      "ts": "2025-08-17T12:25:45Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:26:05Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:26:18Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T12:26:48Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T12:26:48Z",
+      "type": "mouse_move",
+      "distance_px": 752
+    },
+    {
+      "ts": "2025-08-17T12:27:01Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:27:25Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T12:27:57Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:28:00Z",
+      "type": "focus_change",
+      "title": "Chrome - Documentation",
+      "process": "chrome"
+    },
+    {
+      "ts": "2025-08-17T12:28:00Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:28:25Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T12:28:25Z",
+      "type": "mouse_move",
+      "distance_px": 837
+    },
+    {
+      "ts": "2025-08-17T12:28:57Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T12:29:20Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T12:29:20Z",
+      "type": "scroll",
+      "delta": -130
+    },
+    {
+      "ts": "2025-08-17T12:29:28Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T12:30:00Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:30:08Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T12:30:08Z",
+      "type": "mouse_move",
+      "distance_px": 560
+    },
+    {
+      "ts": "2025-08-17T12:30:08Z",
+      "type": "scroll",
+      "delta": 85
+    },
+    {
+      "ts": "2025-08-17T12:30:26Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T12:30:26Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:30:55Z",
+      "type": "keystroke",
+      "count": 4
+    },
+    {
+      "ts": "2025-08-17T12:30:55Z",
+      "type": "mouse_move",
+      "distance_px": 841
+    },
+    {
+      "ts": "2025-08-17T12:30:58Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T12:31:02Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T12:31:24Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T12:31:41Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:32:16Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T12:32:16Z",
+      "type": "mouse_move",
+      "distance_px": 811
+    },
+    {
+      "ts": "2025-08-17T12:32:22Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T12:32:49Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:33:13Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T12:33:42Z",
+      "type": "keystroke",
+      "count": 5
+    },
+    {
+      "ts": "2025-08-17T12:33:42Z",
+      "type": "mouse_move",
+      "distance_px": 384
+    },
+    {
+      "ts": "2025-08-17T12:34:15Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T12:34:15Z",
+      "type": "mouse_move",
+      "distance_px": 366
+    },
+    {
+      "ts": "2025-08-17T12:34:22Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T12:34:52Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:35:25Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:35:25Z",
+      "type": "mouse_move",
+      "distance_px": 423
+    },
+    {
+      "ts": "2025-08-17T12:35:27Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:35:42Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T12:36:10Z",
+      "type": "focus_change",
+      "title": "Telegram",
+      "process": "telegram"
+    },
+    {
+      "ts": "2025-08-17T12:36:10Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T12:36:22Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:36:38Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T12:37:05Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T12:37:13Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T12:37:40Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T12:37:40Z",
+      "type": "mouse_move",
+      "distance_px": 605
+    },
+    {
+      "ts": "2025-08-17T12:37:40Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:37:55Z",
+      "type": "focus_change",
+      "title": "Gmail",
+      "process": "gmail"
+    },
+    {
+      "ts": "2025-08-17T12:37:55Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:38:01Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T12:38:01Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:38:01Z",
+      "type": "scroll",
+      "delta": 108
+    },
+    {
+      "ts": "2025-08-17T12:38:15Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:38:42Z",
+      "type": "keystroke",
+      "count": 5
+    },
+    {
+      "ts": "2025-08-17T12:38:45Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T12:39:21Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T12:39:21Z",
+      "type": "mouse_move",
+      "distance_px": 502
+    },
+    {
+      "ts": "2025-08-17T12:39:54Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:40:13Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T12:40:49Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:41:23Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T12:41:55Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:41:55Z",
+      "type": "mouse_move",
+      "distance_px": 630
+    },
+    {
+      "ts": "2025-08-17T12:42:24Z",
+      "type": "focus_change",
+      "title": "Discord",
+      "process": "discord"
+    },
+    {
+      "ts": "2025-08-17T12:42:24Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:43:00Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T12:43:00Z",
+      "type": "mouse_move",
+      "distance_px": 362
+    },
+    {
+      "ts": "2025-08-17T12:43:27Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T12:43:44Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T12:43:44Z",
+      "type": "mouse_move",
+      "distance_px": 575
+    },
+    {
+      "ts": "2025-08-17T12:44:05Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:44:13Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T12:44:16Z",
+      "type": "keystroke",
+      "count": 4
+    },
+    {
+      "ts": "2025-08-17T12:44:16Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:44:24Z",
+      "type": "focus_change",
+      "title": "Telegram",
+      "process": "telegram"
+    },
+    {
+      "ts": "2025-08-17T12:44:24Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T12:44:50Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T12:45:07Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T12:45:24Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T12:45:24Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:45:40Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T12:45:40Z",
+      "type": "mouse_move",
+      "distance_px": 492
+    },
+    {
+      "ts": "2025-08-17T12:46:12Z",
+      "type": "keystroke",
+      "count": 4
+    },
+    {
+      "ts": "2025-08-17T12:46:12Z",
+      "type": "mouse_move",
+      "distance_px": 239
+    },
+    {
+      "ts": "2025-08-17T12:46:17Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T12:46:17Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:46:37Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:46:56Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:47:27Z",
+      "type": "focus_change",
+      "title": "Notion",
+      "process": "notion"
+    },
+    {
+      "ts": "2025-08-17T12:47:27Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T12:47:52Z",
+      "type": "focus_change",
+      "title": "Zoom",
+      "process": "zoom"
+    },
+    {
+      "ts": "2025-08-17T12:47:52Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T12:48:18Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T12:48:40Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T12:48:57Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T12:49:04Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T12:49:19Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:49:19Z",
+      "type": "mouse_move",
+      "distance_px": 559
+    },
+    {
+      "ts": "2025-08-17T12:49:43Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:50:18Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T12:50:43Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:51:04Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:51:37Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:51:37Z",
+      "type": "mouse_move",
+      "distance_px": 336
+    },
+    {
+      "ts": "2025-08-17T12:51:44Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:51:44Z",
+      "type": "mouse_move",
+      "distance_px": 492
+    },
+    {
+      "ts": "2025-08-17T12:52:02Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T12:52:02Z",
+      "type": "mouse_move",
+      "distance_px": 494
+    },
+    {
+      "ts": "2025-08-17T12:52:38Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:53:02Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:53:19Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T12:53:38Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T12:53:51Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:54:25Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T12:54:25Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:54:36Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T12:54:42Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T12:54:58Z",
+      "type": "keystroke",
+      "count": 5
+    },
+    {
+      "ts": "2025-08-17T12:54:58Z",
+      "type": "mouse_move",
+      "distance_px": 673
+    },
+    {
+      "ts": "2025-08-17T12:55:13Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:55:35Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:56:00Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T12:56:11Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:56:11Z",
+      "type": "mouse_move",
+      "distance_px": 365
+    },
+    {
+      "ts": "2025-08-17T12:56:48Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T12:57:21Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T12:57:44Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:57:44Z",
+      "type": "scroll",
+      "delta": 36
+    },
+    {
+      "ts": "2025-08-17T12:57:58Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T12:58:07Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T12:58:10Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:58:10Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:58:16Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T12:58:24Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T12:58:36Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T12:58:36Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T12:58:36Z",
+      "type": "scroll",
+      "delta": -68
+    },
+    {
+      "ts": "2025-08-17T12:59:06Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T12:59:23Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T12:59:23Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T12:59:49Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:00:08Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:00:08Z",
+      "type": "mouse_move",
+      "distance_px": 493
+    },
+    {
+      "ts": "2025-08-17T13:00:08Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:00:08Z",
+      "type": "scroll",
+      "delta": -195
+    },
+    {
+      "ts": "2025-08-17T13:00:26Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T13:00:26Z",
+      "type": "mouse_move",
+      "distance_px": 210
+    },
+    {
+      "ts": "2025-08-17T13:00:34Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:00:37Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:00:37Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:00:56Z",
+      "type": "focus_change",
+      "title": "Sublime Text",
+      "process": "sublime"
+    },
+    {
+      "ts": "2025-08-17T13:00:56Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:01:05Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:01:26Z",
+      "type": "focus_change",
+      "title": "Slack",
+      "process": "slack"
+    },
+    {
+      "ts": "2025-08-17T13:01:26Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:01:30Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:01:39Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T13:01:41Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:01:50Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:01:50Z",
+      "type": "mouse_move",
+      "distance_px": 724
+    },
+    {
+      "ts": "2025-08-17T13:02:06Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:02:06Z",
+      "type": "mouse_move",
+      "distance_px": 367
+    },
+    {
+      "ts": "2025-08-17T13:02:15Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T13:02:15Z",
+      "type": "mouse_move",
+      "distance_px": 639
+    },
+    {
+      "ts": "2025-08-17T13:02:15Z",
+      "type": "scroll",
+      "delta": 117
+    },
+    {
+      "ts": "2025-08-17T13:02:29Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:02:29Z",
+      "type": "scroll",
+      "delta": -266
+    },
+    {
+      "ts": "2025-08-17T13:02:51Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:02:51Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:03:01Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T13:03:22Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:03:34Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T13:03:37Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:03:41Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:03:49Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:04:08Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T13:04:29Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:04:45Z",
+      "type": "focus_change",
+      "title": "Zoom",
+      "process": "zoom"
+    },
+    {
+      "ts": "2025-08-17T13:04:45Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:04:45Z",
+      "type": "mouse_move",
+      "distance_px": 698
+    },
+    {
+      "ts": "2025-08-17T13:05:05Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:05:08Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:05:16Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T13:05:16Z",
+      "type": "mouse_move",
+      "distance_px": 697
+    },
+    {
+      "ts": "2025-08-17T13:05:16Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:05:24Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T13:05:27Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:05:27Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:05:39Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:05:55Z",
+      "type": "focus_change",
+      "title": "Visual Studio Code",
+      "process": "visual"
+    },
+    {
+      "ts": "2025-08-17T13:05:55Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:05:55Z",
+      "type": "mouse_move",
+      "distance_px": 398
+    },
+    {
+      "ts": "2025-08-17T13:05:57Z",
+      "type": "focus_change",
+      "title": "Google Chrome - Stack Overflow",
+      "process": "google"
+    },
+    {
+      "ts": "2025-08-17T13:05:57Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:05:57Z",
+      "type": "mouse_move",
+      "distance_px": 351
+    },
+    {
+      "ts": "2025-08-17T13:05:57Z",
+      "type": "scroll",
+      "delta": -264
+    },
+    {
+      "ts": "2025-08-17T13:06:20Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T13:06:22Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:06:39Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:06:57Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:07:08Z",
+      "type": "keystroke",
+      "count": 5
+    },
+    {
+      "ts": "2025-08-17T13:07:16Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:07:35Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:07:35Z",
+      "type": "mouse_move",
+      "distance_px": 673
+    },
+    {
+      "ts": "2025-08-17T13:07:35Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:07:58Z",
+      "type": "focus_change",
+      "title": "Figma",
+      "process": "figma"
+    },
+    {
+      "ts": "2025-08-17T13:07:58Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:07:58Z",
+      "type": "mouse_move",
+      "distance_px": 749
+    },
+    {
+      "ts": "2025-08-17T13:08:06Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T13:08:06Z",
+      "type": "mouse_move",
+      "distance_px": 692
+    },
+    {
+      "ts": "2025-08-17T13:08:06Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:08:06Z",
+      "type": "scroll",
+      "delta": -88
+    },
+    {
+      "ts": "2025-08-17T13:08:21Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:08:32Z",
+      "type": "keystroke",
+      "count": 29
+    },
+    {
+      "ts": "2025-08-17T13:08:32Z",
+      "type": "mouse_move",
+      "distance_px": 579
+    },
+    {
+      "ts": "2025-08-17T13:08:32Z",
+      "type": "scroll",
+      "delta": 280
+    },
+    {
+      "ts": "2025-08-17T13:08:41Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T13:08:41Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:09:03Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:09:03Z",
+      "type": "mouse_move",
+      "distance_px": 738
+    },
+    {
+      "ts": "2025-08-17T13:09:14Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:09:14Z",
+      "type": "mouse_move",
+      "distance_px": 387
+    },
+    {
+      "ts": "2025-08-17T13:09:23Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T13:09:27Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:09:27Z",
+      "type": "scroll",
+      "delta": -134
+    },
+    {
+      "ts": "2025-08-17T13:09:29Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:09:29Z",
+      "type": "mouse_move",
+      "distance_px": 631
+    },
+    {
+      "ts": "2025-08-17T13:09:29Z",
+      "type": "scroll",
+      "delta": 158
+    },
+    {
+      "ts": "2025-08-17T13:09:51Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:09:51Z",
+      "type": "mouse_move",
+      "distance_px": 496
+    },
+    {
+      "ts": "2025-08-17T13:10:02Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T13:10:07Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:10:28Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T13:10:28Z",
+      "type": "mouse_move",
+      "distance_px": 471
+    },
+    {
+      "ts": "2025-08-17T13:10:28Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:10:38Z",
+      "type": "focus_change",
+      "title": "Adobe Photoshop",
+      "process": "adobe"
+    },
+    {
+      "ts": "2025-08-17T13:10:38Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:10:38Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:10:55Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:10:55Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:11:00Z",
+      "type": "keystroke",
+      "count": 5
+    },
+    {
+      "ts": "2025-08-17T13:11:24Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:11:24Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:11:27Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:11:31Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T13:11:52Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:12:14Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:12:14Z",
+      "type": "mouse_move",
+      "distance_px": 416
+    },
+    {
+      "ts": "2025-08-17T13:12:37Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T13:12:37Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:12:51Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:12:51Z",
+      "type": "scroll",
+      "delta": 76
+    },
+    {
+      "ts": "2025-08-17T13:13:01Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:13:01Z",
+      "type": "mouse_move",
+      "distance_px": 416
+    },
+    {
+      "ts": "2025-08-17T13:13:10Z",
+      "type": "focus_change",
+      "title": "Edge - Microsoft Docs",
+      "process": "edge"
+    },
+    {
+      "ts": "2025-08-17T13:13:10Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:13:33Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T13:13:38Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:13:38Z",
+      "type": "mouse_move",
+      "distance_px": 487
+    },
+    {
+      "ts": "2025-08-17T13:14:00Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:14:09Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T13:14:09Z",
+      "type": "mouse_move",
+      "distance_px": 635
+    },
+    {
+      "ts": "2025-08-17T13:14:09Z",
+      "type": "scroll",
+      "delta": -70
+    },
+    {
+      "ts": "2025-08-17T13:14:25Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:14:25Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:14:50Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:15:15Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:15:38Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:15:38Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:15:45Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:16:03Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:16:27Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:16:27Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:16:27Z",
+      "type": "scroll",
+      "delta": -248
+    },
+    {
+      "ts": "2025-08-17T13:16:36Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:16:52Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:16:52Z",
+      "type": "scroll",
+      "delta": -141
+    },
+    {
+      "ts": "2025-08-17T13:17:14Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:17:38Z",
+      "type": "focus_change",
+      "title": "Trello",
+      "process": "trello"
+    },
+    {
+      "ts": "2025-08-17T13:17:38Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:17:47Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:17:47Z",
+      "type": "mouse_move",
+      "distance_px": 66
+    },
+    {
+      "ts": "2025-08-17T13:17:47Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:18:00Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T13:18:00Z",
+      "type": "mouse_move",
+      "distance_px": 263
+    },
+    {
+      "ts": "2025-08-17T13:18:17Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:18:17Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:18:42Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:18:42Z",
+      "type": "mouse_move",
+      "distance_px": 349
+    },
+    {
+      "ts": "2025-08-17T13:18:55Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:19:10Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:19:10Z",
+      "type": "scroll",
+      "delta": -110
+    },
+    {
+      "ts": "2025-08-17T13:19:16Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:19:16Z",
+      "type": "mouse_move",
+      "distance_px": -132
+    },
+    {
+      "ts": "2025-08-17T13:19:32Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:19:32Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:19:38Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T13:19:38Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:19:43Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:19:43Z",
+      "type": "mouse_move",
+      "distance_px": 442
+    },
+    {
+      "ts": "2025-08-17T13:19:43Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:19:55Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:19:55Z",
+      "type": "mouse_move",
+      "distance_px": 200
+    },
+    {
+      "ts": "2025-08-17T13:20:06Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:20:06Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:20:15Z",
+      "type": "focus_change",
+      "title": "Google Chrome - Stack Overflow",
+      "process": "google"
+    },
+    {
+      "ts": "2025-08-17T13:20:15Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:20:15Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:20:17Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:20:17Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:20:42Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:20:42Z",
+      "type": "mouse_move",
+      "distance_px": 623
+    },
+    {
+      "ts": "2025-08-17T13:20:51Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T13:21:13Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:21:21Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:21:26Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:21:26Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:21:37Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:21:52Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T13:21:52Z",
+      "type": "mouse_move",
+      "distance_px": 456
+    },
+    {
+      "ts": "2025-08-17T13:22:02Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:22:21Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T13:22:21Z",
+      "type": "mouse_move",
+      "distance_px": 416
+    },
+    {
+      "ts": "2025-08-17T13:22:27Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:22:42Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:22:42Z",
+      "type": "mouse_move",
+      "distance_px": 643
+    },
+    {
+      "ts": "2025-08-17T13:22:58Z",
+      "type": "keystroke",
+      "count": 4
+    },
+    {
+      "ts": "2025-08-17T13:23:16Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:23:16Z",
+      "type": "scroll",
+      "delta": -244
+    },
+    {
+      "ts": "2025-08-17T13:23:26Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:23:42Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:23:42Z",
+      "type": "mouse_move",
+      "distance_px": 277
+    },
+    {
+      "ts": "2025-08-17T13:23:46Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:23:52Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:24:03Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:24:24Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T13:24:24Z",
+      "type": "mouse_move",
+      "distance_px": 446
+    },
+    {
+      "ts": "2025-08-17T13:24:32Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:24:32Z",
+      "type": "mouse_move",
+      "distance_px": 526
+    },
+    {
+      "ts": "2025-08-17T13:24:32Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:24:55Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T13:24:55Z",
+      "type": "mouse_move",
+      "distance_px": 567
+    },
+    {
+      "ts": "2025-08-17T13:25:10Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T13:25:22Z",
+      "type": "focus_change",
+      "title": "iTerm2",
+      "process": "iterm2"
+    },
+    {
+      "ts": "2025-08-17T13:25:22Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T13:25:22Z",
+      "type": "mouse_move",
+      "distance_px": 558
+    },
+    {
+      "ts": "2025-08-17T13:25:33Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:25:56Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:25:56Z",
+      "type": "mouse_move",
+      "distance_px": 600
+    },
+    {
+      "ts": "2025-08-17T13:26:02Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T13:26:11Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:26:11Z",
+      "type": "mouse_move",
+      "distance_px": 451
+    },
+    {
+      "ts": "2025-08-17T13:26:16Z",
+      "type": "keystroke",
+      "count": 29
+    },
+    {
+      "ts": "2025-08-17T13:26:16Z",
+      "type": "scroll",
+      "delta": 3
+    },
+    {
+      "ts": "2025-08-17T13:26:37Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:26:43Z",
+      "type": "focus_change",
+      "title": "Google Chrome - Stack Overflow",
+      "process": "google"
+    },
+    {
+      "ts": "2025-08-17T13:26:43Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:26:43Z",
+      "type": "scroll",
+      "delta": 215
+    },
+    {
+      "ts": "2025-08-17T13:26:51Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:26:51Z",
+      "type": "mouse_move",
+      "distance_px": 614
+    },
+    {
+      "ts": "2025-08-17T13:26:51Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:27:01Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T13:27:01Z",
+      "type": "mouse_move",
+      "distance_px": 755
+    },
+    {
+      "ts": "2025-08-17T13:27:19Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:27:19Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:27:19Z",
+      "type": "scroll",
+      "delta": 185
+    },
+    {
+      "ts": "2025-08-17T13:27:41Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:28:00Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:28:12Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:28:35Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T13:28:40Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T13:28:42Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:28:42Z",
+      "type": "mouse_move",
+      "distance_px": 565
+    },
+    {
+      "ts": "2025-08-17T13:28:42Z",
+      "type": "scroll",
+      "delta": -174
+    },
+    {
+      "ts": "2025-08-17T13:28:53Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:28:53Z",
+      "type": "mouse_move",
+      "distance_px": 803
+    },
+    {
+      "ts": "2025-08-17T13:29:11Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:29:29Z",
+      "type": "keystroke",
+      "count": 1
+    },
+    {
+      "ts": "2025-08-17T13:29:29Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:29:39Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:29:51Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:29:51Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:30:15Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T13:30:15Z",
+      "type": "mouse_move",
+      "distance_px": 633
+    },
+    {
+      "ts": "2025-08-17T13:30:24Z",
+      "type": "keystroke",
+      "count": 4
+    },
+    {
+      "ts": "2025-08-17T13:30:28Z",
+      "type": "focus_change",
+      "title": "Zoom",
+      "process": "zoom"
+    },
+    {
+      "ts": "2025-08-17T13:30:28Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:30:28Z",
+      "type": "mouse_move",
+      "distance_px": 387
+    },
+    {
+      "ts": "2025-08-17T13:30:42Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:30:42Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:30:54Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T13:30:54Z",
+      "type": "mouse_move",
+      "distance_px": 285
+    },
+    {
+      "ts": "2025-08-17T13:31:16Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T13:31:36Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T13:31:56Z",
+      "type": "keystroke",
+      "count": 31
+    },
+    {
+      "ts": "2025-08-17T13:31:56Z",
+      "type": "mouse_move",
+      "distance_px": 596
+    },
+    {
+      "ts": "2025-08-17T13:31:56Z",
+      "type": "scroll",
+      "delta": 139
+    },
+    {
+      "ts": "2025-08-17T13:31:58Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:32:20Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:32:44Z",
+      "type": "keystroke",
+      "count": 32
+    },
+    {
+      "ts": "2025-08-17T13:32:51Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:32:51Z",
+      "type": "mouse_move",
+      "distance_px": 277
+    },
+    {
+      "ts": "2025-08-17T13:33:07Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T13:33:07Z",
+      "type": "mouse_move",
+      "distance_px": 797
+    },
+    {
+      "ts": "2025-08-17T13:33:07Z",
+      "type": "scroll",
+      "delta": 295
+    },
+    {
+      "ts": "2025-08-17T13:33:28Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:33:28Z",
+      "type": "mouse_move",
+      "distance_px": 26
+    },
+    {
+      "ts": "2025-08-17T13:33:28Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:33:28Z",
+      "type": "scroll",
+      "delta": 215
+    },
+    {
+      "ts": "2025-08-17T13:33:45Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:34:01Z",
+      "type": "keystroke",
+      "count": 33
+    },
+    {
+      "ts": "2025-08-17T13:34:08Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T13:34:08Z",
+      "type": "mouse_move",
+      "distance_px": 886
+    },
+    {
+      "ts": "2025-08-17T13:34:26Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:34:26Z",
+      "type": "mouse_move",
+      "distance_px": 539
+    },
+    {
+      "ts": "2025-08-17T13:34:41Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T13:34:41Z",
+      "type": "mouse_move",
+      "distance_px": 354
+    },
+    {
+      "ts": "2025-08-17T13:34:47Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:34:47Z",
+      "type": "mouse_move",
+      "distance_px": 552
+    },
+    {
+      "ts": "2025-08-17T13:34:47Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:34:51Z",
+      "type": "focus_change",
+      "title": "Cursor",
+      "process": "cursor"
+    },
+    {
+      "ts": "2025-08-17T13:34:51Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:35:12Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:35:12Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:35:17Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:35:26Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T13:35:26Z",
+      "type": "mouse_move",
+      "distance_px": 272
+    },
+    {
+      "ts": "2025-08-17T13:35:26Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:35:46Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:35:55Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:35:55Z",
+      "type": "scroll",
+      "delta": -191
+    },
+    {
+      "ts": "2025-08-17T13:35:58Z",
+      "type": "keystroke",
+      "count": 30
+    },
+    {
+      "ts": "2025-08-17T13:36:04Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:36:04Z",
+      "type": "mouse_move",
+      "distance_px": 110
+    },
+    {
+      "ts": "2025-08-17T13:36:19Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T13:36:19Z",
+      "type": "mouse_move",
+      "distance_px": 165
+    },
+    {
+      "ts": "2025-08-17T13:36:43Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:36:43Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:37:00Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:37:00Z",
+      "type": "mouse_move",
+      "distance_px": 246
+    },
+    {
+      "ts": "2025-08-17T13:37:00Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:37:19Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:37:39Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:37:39Z",
+      "type": "mouse_move",
+      "distance_px": 152
+    },
+    {
+      "ts": "2025-08-17T13:37:53Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:37:57Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:38:02Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T13:38:02Z",
+      "type": "mouse_move",
+      "distance_px": 496
+    },
+    {
+      "ts": "2025-08-17T13:38:12Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:38:12Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:38:16Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T13:38:22Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:38:32Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T13:38:32Z",
+      "type": "mouse_move",
+      "distance_px": 611
+    },
+    {
+      "ts": "2025-08-17T13:38:32Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:38:52Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:38:52Z",
+      "type": "mouse_move",
+      "distance_px": 408
+    },
+    {
+      "ts": "2025-08-17T13:39:06Z",
+      "type": "keystroke",
+      "count": 30
+    },
+    {
+      "ts": "2025-08-17T13:39:30Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:39:30Z",
+      "type": "mouse_move",
+      "distance_px": 623
+    },
+    {
+      "ts": "2025-08-17T13:39:45Z",
+      "type": "keystroke",
+      "count": 5
+    },
+    {
+      "ts": "2025-08-17T13:40:03Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:40:03Z",
+      "type": "mouse_move",
+      "distance_px": 279
+    },
+    {
+      "ts": "2025-08-17T13:40:03Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:40:13Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:40:15Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:40:15Z",
+      "type": "mouse_move",
+      "distance_px": 516
+    },
+    {
+      "ts": "2025-08-17T13:40:15Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:40:22Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T13:40:36Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:40:36Z",
+      "type": "mouse_move",
+      "distance_px": 395
+    },
+    {
+      "ts": "2025-08-17T13:40:36Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:40:56Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T13:40:56Z",
+      "type": "scroll",
+      "delta": 91
+    },
+    {
+      "ts": "2025-08-17T13:41:10Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T13:41:12Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:41:12Z",
+      "type": "mouse_move",
+      "distance_px": 44
+    },
+    {
+      "ts": "2025-08-17T13:41:29Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:41:29Z",
+      "type": "mouse_move",
+      "distance_px": 615
+    },
+    {
+      "ts": "2025-08-17T13:41:43Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T13:41:43Z",
+      "type": "mouse_move",
+      "distance_px": 246
+    },
+    {
+      "ts": "2025-08-17T13:41:43Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:41:43Z",
+      "type": "scroll",
+      "delta": -14
+    },
+    {
+      "ts": "2025-08-17T13:42:04Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:42:14Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T13:42:25Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:42:25Z",
+      "type": "mouse_move",
+      "distance_px": 492
+    },
+    {
+      "ts": "2025-08-17T13:42:25Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:42:34Z",
+      "type": "focus_change",
+      "title": "Sketch",
+      "process": "sketch"
+    },
+    {
+      "ts": "2025-08-17T13:42:34Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:42:57Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:42:57Z",
+      "type": "mouse_move",
+      "distance_px": 1008
+    },
+    {
+      "ts": "2025-08-17T13:42:57Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:43:10Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:43:35Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T13:43:37Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T13:44:02Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:44:24Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T13:44:24Z",
+      "type": "mouse_move",
+      "distance_px": 802
+    },
+    {
+      "ts": "2025-08-17T13:44:24Z",
+      "type": "scroll",
+      "delta": -217
+    },
+    {
+      "ts": "2025-08-17T13:44:29Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:44:29Z",
+      "type": "mouse_move",
+      "distance_px": 393
+    },
+    {
+      "ts": "2025-08-17T13:44:53Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:45:14Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:45:14Z",
+      "type": "mouse_move",
+      "distance_px": 502
+    },
+    {
+      "ts": "2025-08-17T13:45:14Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:45:30Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:45:30Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:45:32Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:45:43Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T13:45:43Z",
+      "type": "mouse_move",
+      "distance_px": 413
+    },
+    {
+      "ts": "2025-08-17T13:45:43Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:46:06Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T13:46:06Z",
+      "type": "mouse_move",
+      "distance_px": 649
+    },
+    {
+      "ts": "2025-08-17T13:46:10Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:46:17Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:46:17Z",
+      "type": "scroll",
+      "delta": 245
+    },
+    {
+      "ts": "2025-08-17T13:46:40Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:46:40Z",
+      "type": "mouse_move",
+      "distance_px": 411
+    },
+    {
+      "ts": "2025-08-17T13:46:51Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T13:47:13Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:47:13Z",
+      "type": "mouse_move",
+      "distance_px": 403
+    },
+    {
+      "ts": "2025-08-17T13:47:13Z",
+      "type": "scroll",
+      "delta": 171
+    },
+    {
+      "ts": "2025-08-17T13:47:34Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:47:51Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:47:55Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T13:48:07Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:48:07Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:48:18Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:48:18Z",
+      "type": "mouse_move",
+      "distance_px": 332
+    },
+    {
+      "ts": "2025-08-17T13:48:18Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:48:26Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:48:26Z",
+      "type": "mouse_move",
+      "distance_px": 718
+    },
+    {
+      "ts": "2025-08-17T13:48:47Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:49:05Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:49:24Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T13:49:46Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T13:50:04Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T13:50:04Z",
+      "type": "scroll",
+      "delta": 137
+    },
+    {
+      "ts": "2025-08-17T13:50:28Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T13:50:28Z",
+      "type": "mouse_move",
+      "distance_px": 454
+    },
+    {
+      "ts": "2025-08-17T13:50:28Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:50:28Z",
+      "type": "scroll",
+      "delta": -59
+    },
+    {
+      "ts": "2025-08-17T13:50:52Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T13:50:52Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:51:12Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:51:28Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:51:45Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T13:51:45Z",
+      "type": "mouse_move",
+      "distance_px": 416
+    },
+    {
+      "ts": "2025-08-17T13:51:57Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T13:52:06Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T13:52:21Z",
+      "type": "focus_change",
+      "title": "Gmail",
+      "process": "gmail"
+    },
+    {
+      "ts": "2025-08-17T13:52:21Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:52:21Z",
+      "type": "mouse_move",
+      "distance_px": 597
+    },
+    {
+      "ts": "2025-08-17T13:52:38Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:52:38Z",
+      "type": "mouse_move",
+      "distance_px": 531
+    },
+    {
+      "ts": "2025-08-17T13:52:44Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:52:44Z",
+      "type": "mouse_move",
+      "distance_px": 705
+    },
+    {
+      "ts": "2025-08-17T13:52:53Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:52:53Z",
+      "type": "mouse_move",
+      "distance_px": 428
+    },
+    {
+      "ts": "2025-08-17T13:53:06Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:53:31Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T13:53:52Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T13:53:56Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:54:06Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T13:54:06Z",
+      "type": "mouse_move",
+      "distance_px": 340
+    },
+    {
+      "ts": "2025-08-17T13:54:28Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:54:28Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:54:33Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:54:33Z",
+      "type": "mouse_move",
+      "distance_px": 131
+    },
+    {
+      "ts": "2025-08-17T13:54:40Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:54:40Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:54:54Z",
+      "type": "focus_change",
+      "title": "Chrome - Documentation",
+      "process": "chrome"
+    },
+    {
+      "ts": "2025-08-17T13:54:54Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T13:55:15Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:55:21Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T13:55:21Z",
+      "type": "mouse_move",
+      "distance_px": 562
+    },
+    {
+      "ts": "2025-08-17T13:55:28Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:55:28Z",
+      "type": "mouse_move",
+      "distance_px": 495
+    },
+    {
+      "ts": "2025-08-17T13:55:30Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T13:55:30Z",
+      "type": "mouse_move",
+      "distance_px": 73
+    },
+    {
+      "ts": "2025-08-17T13:55:43Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:55:43Z",
+      "type": "mouse_move",
+      "distance_px": 710
+    },
+    {
+      "ts": "2025-08-17T13:56:07Z",
+      "type": "focus_change",
+      "title": "iTerm2",
+      "process": "iterm2"
+    },
+    {
+      "ts": "2025-08-17T13:56:07Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T13:56:07Z",
+      "type": "scroll",
+      "delta": -282
+    },
+    {
+      "ts": "2025-08-17T13:56:11Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:56:11Z",
+      "type": "mouse_move",
+      "distance_px": 711
+    },
+    {
+      "ts": "2025-08-17T13:56:11Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T13:56:28Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:56:28Z",
+      "type": "scroll",
+      "delta": -58
+    },
+    {
+      "ts": "2025-08-17T13:56:49Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T13:57:09Z",
+      "type": "focus_change",
+      "title": "Terminal",
+      "process": "terminal"
+    },
+    {
+      "ts": "2025-08-17T13:57:09Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T13:57:09Z",
+      "type": "mouse_move",
+      "distance_px": 709
+    },
+    {
+      "ts": "2025-08-17T13:57:30Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:57:34Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T13:57:34Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:57:43Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T13:57:43Z",
+      "type": "mouse_move",
+      "distance_px": 350
+    },
+    {
+      "ts": "2025-08-17T13:57:43Z",
+      "type": "scroll",
+      "delta": 42
+    },
+    {
+      "ts": "2025-08-17T13:58:03Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:58:06Z",
+      "type": "focus_change",
+      "title": "Sublime Text",
+      "process": "sublime"
+    },
+    {
+      "ts": "2025-08-17T13:58:06Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T13:58:17Z",
+      "type": "keystroke",
+      "count": 29
+    },
+    {
+      "ts": "2025-08-17T13:58:41Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T13:58:41Z",
+      "type": "mouse_move",
+      "distance_px": 506
+    },
+    {
+      "ts": "2025-08-17T13:58:55Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T13:59:18Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T13:59:37Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T13:59:37Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T13:59:48Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:00:11Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T14:00:11Z",
+      "type": "mouse_move",
+      "distance_px": 201
+    },
+    {
+      "ts": "2025-08-17T14:00:11Z",
+      "type": "scroll",
+      "delta": -120
+    },
+    {
+      "ts": "2025-08-17T14:00:33Z",
+      "type": "focus_change",
+      "title": "Microsoft Teams",
+      "process": "microsoft"
+    },
+    {
+      "ts": "2025-08-17T14:00:33Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:00:33Z",
+      "type": "mouse_move",
+      "distance_px": 524
+    },
+    {
+      "ts": "2025-08-17T14:00:33Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:00:48Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T14:00:48Z",
+      "type": "mouse_move",
+      "distance_px": -33
+    },
+    {
+      "ts": "2025-08-17T14:00:48Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:00:48Z",
+      "type": "scroll",
+      "delta": 87
+    },
+    {
+      "ts": "2025-08-17T14:01:12Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:01:19Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T14:01:33Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:01:40Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T14:02:01Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:02:17Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:02:17Z",
+      "type": "mouse_move",
+      "distance_px": 658
+    },
+    {
+      "ts": "2025-08-17T14:02:29Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:02:29Z",
+      "type": "mouse_move",
+      "distance_px": 236
+    },
+    {
+      "ts": "2025-08-17T14:02:29Z",
+      "type": "scroll",
+      "delta": -134
+    },
+    {
+      "ts": "2025-08-17T14:02:36Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:02:57Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:03:22Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:03:42Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T14:03:42Z",
+      "type": "mouse_move",
+      "distance_px": 941
+    },
+    {
+      "ts": "2025-08-17T14:04:01Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T14:04:16Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T14:04:24Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:04:40Z",
+      "type": "focus_change",
+      "title": "Edge - Microsoft Docs",
+      "process": "edge"
+    },
+    {
+      "ts": "2025-08-17T14:04:40Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:04:40Z",
+      "type": "mouse_move",
+      "distance_px": 672
+    },
+    {
+      "ts": "2025-08-17T14:04:47Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:05:02Z",
+      "type": "focus_change",
+      "title": "Slack",
+      "process": "slack"
+    },
+    {
+      "ts": "2025-08-17T14:05:02Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:05:02Z",
+      "type": "mouse_move",
+      "distance_px": 278
+    },
+    {
+      "ts": "2025-08-17T14:05:19Z",
+      "type": "keystroke",
+      "count": 31
+    },
+    {
+      "ts": "2025-08-17T14:05:22Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:05:22Z",
+      "type": "mouse_move",
+      "distance_px": 661
+    },
+    {
+      "ts": "2025-08-17T14:05:44Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T14:05:44Z",
+      "type": "mouse_move",
+      "distance_px": 153
+    },
+    {
+      "ts": "2025-08-17T14:06:02Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:06:11Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T14:06:14Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:06:37Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T14:06:37Z",
+      "type": "mouse_move",
+      "distance_px": 360
+    },
+    {
+      "ts": "2025-08-17T14:07:00Z",
+      "type": "focus_change",
+      "title": "Telegram",
+      "process": "telegram"
+    },
+    {
+      "ts": "2025-08-17T14:07:00Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T14:07:13Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:07:13Z",
+      "type": "mouse_move",
+      "distance_px": 417
+    },
+    {
+      "ts": "2025-08-17T14:07:22Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:07:30Z",
+      "type": "focus_change",
+      "title": "iTerm2",
+      "process": "iterm2"
+    },
+    {
+      "ts": "2025-08-17T14:07:30Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:07:30Z",
+      "type": "mouse_move",
+      "distance_px": 315
+    },
+    {
+      "ts": "2025-08-17T14:07:30Z",
+      "type": "scroll",
+      "delta": -269
+    },
+    {
+      "ts": "2025-08-17T14:07:49Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:07:54Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:08:08Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T14:08:14Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:08:14Z",
+      "type": "scroll",
+      "delta": -211
+    },
+    {
+      "ts": "2025-08-17T14:08:35Z",
+      "type": "focus_change",
+      "title": "Chrome - YouTube Tutorial",
+      "process": "chrome"
+    },
+    {
+      "ts": "2025-08-17T14:08:35Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T14:08:35Z",
+      "type": "mouse_move",
+      "distance_px": 388
+    },
+    {
+      "ts": "2025-08-17T14:08:35Z",
+      "type": "scroll",
+      "delta": -125
+    },
+    {
+      "ts": "2025-08-17T14:08:58Z",
+      "type": "focus_change",
+      "title": "Windows Terminal",
+      "process": "windows"
+    },
+    {
+      "ts": "2025-08-17T14:08:58Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T14:08:58Z",
+      "type": "mouse_move",
+      "distance_px": 607
+    },
+    {
+      "ts": "2025-08-17T14:09:04Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:09:12Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:09:20Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:09:20Z",
+      "type": "mouse_move",
+      "distance_px": 675
+    },
+    {
+      "ts": "2025-08-17T14:09:20Z",
+      "type": "scroll",
+      "delta": -238
+    },
+    {
+      "ts": "2025-08-17T14:09:32Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:09:32Z",
+      "type": "mouse_move",
+      "distance_px": 375
+    },
+    {
+      "ts": "2025-08-17T14:09:34Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:09:54Z",
+      "type": "focus_change",
+      "title": "WhatsApp",
+      "process": "whatsapp"
+    },
+    {
+      "ts": "2025-08-17T14:09:54Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:09:54Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:09:57Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:10:10Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:10:35Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:10:44Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T14:10:48Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:10:51Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T14:10:51Z",
+      "type": "mouse_move",
+      "distance_px": 601
+    },
+    {
+      "ts": "2025-08-17T14:10:54Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:10:54Z",
+      "type": "mouse_move",
+      "distance_px": 416
+    },
+    {
+      "ts": "2025-08-17T14:11:08Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T14:11:16Z",
+      "type": "keystroke",
+      "count": 34
+    },
+    {
+      "ts": "2025-08-17T14:11:19Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T14:11:22Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T14:11:34Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:11:34Z",
+      "type": "mouse_move",
+      "distance_px": 694
+    },
+    {
+      "ts": "2025-08-17T14:11:34Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:11:39Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T14:11:39Z",
+      "type": "mouse_move",
+      "distance_px": 18
+    },
+    {
+      "ts": "2025-08-17T14:12:00Z",
+      "type": "keystroke",
+      "count": 29
+    },
+    {
+      "ts": "2025-08-17T14:12:23Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T14:12:41Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T14:12:46Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:12:46Z",
+      "type": "mouse_move",
+      "distance_px": 550
+    },
+    {
+      "ts": "2025-08-17T14:12:51Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T14:12:51Z",
+      "type": "mouse_move",
+      "distance_px": 478
+    },
+    {
+      "ts": "2025-08-17T14:13:03Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:13:03Z",
+      "type": "mouse_move",
+      "distance_px": 167
+    },
+    {
+      "ts": "2025-08-17T14:13:17Z",
+      "type": "focus_change",
+      "title": "Chrome - Documentation",
+      "process": "chrome"
+    },
+    {
+      "ts": "2025-08-17T14:13:17Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T14:13:17Z",
+      "type": "mouse_move",
+      "distance_px": 672
+    },
+    {
+      "ts": "2025-08-17T14:13:17Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T14:13:28Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:13:28Z",
+      "type": "mouse_move",
+      "distance_px": 389
+    },
+    {
+      "ts": "2025-08-17T14:13:28Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:13:34Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:13:55Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:14:17Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T14:14:17Z",
+      "type": "mouse_move",
+      "distance_px": 762
+    },
+    {
+      "ts": "2025-08-17T14:14:17Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:14:29Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:14:39Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:14:39Z",
+      "type": "mouse_move",
+      "distance_px": 509
+    },
+    {
+      "ts": "2025-08-17T14:14:52Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T14:14:52Z",
+      "type": "mouse_move",
+      "distance_px": 557
+    },
+    {
+      "ts": "2025-08-17T14:15:02Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T14:15:02Z",
+      "type": "mouse_move",
+      "distance_px": 794
+    },
+    {
+      "ts": "2025-08-17T14:15:05Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:15:05Z",
+      "type": "mouse_move",
+      "distance_px": 732
+    },
+    {
+      "ts": "2025-08-17T14:15:05Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:15:23Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:15:23Z",
+      "type": "mouse_move",
+      "distance_px": 361
+    },
+    {
+      "ts": "2025-08-17T14:15:41Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:15:41Z",
+      "type": "mouse_move",
+      "distance_px": 502
+    },
+    {
+      "ts": "2025-08-17T14:15:50Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:15:50Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:15:50Z",
+      "type": "scroll",
+      "delta": -272
+    },
+    {
+      "ts": "2025-08-17T14:15:54Z",
+      "type": "focus_change",
+      "title": "Google Chrome - Stack Overflow",
+      "process": "google"
+    },
+    {
+      "ts": "2025-08-17T14:15:54Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:15:54Z",
+      "type": "mouse_move",
+      "distance_px": 369
+    },
+    {
+      "ts": "2025-08-17T14:16:01Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T14:16:01Z",
+      "type": "mouse_move",
+      "distance_px": 629
+    },
+    {
+      "ts": "2025-08-17T14:16:01Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:16:22Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:16:24Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:16:24Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:16:46Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T14:16:52Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:16:52Z",
+      "type": "mouse_move",
+      "distance_px": 443
+    },
+    {
+      "ts": "2025-08-17T14:16:52Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:17:02Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:17:24Z",
+      "type": "focus_change",
+      "title": "Blender",
+      "process": "blender"
+    },
+    {
+      "ts": "2025-08-17T14:17:24Z",
+      "type": "keystroke",
+      "count": 29
+    },
+    {
+      "ts": "2025-08-17T14:17:24Z",
+      "type": "mouse_move",
+      "distance_px": 210
+    },
+    {
+      "ts": "2025-08-17T14:17:24Z",
+      "type": "scroll",
+      "delta": 278
+    },
+    {
+      "ts": "2025-08-17T14:17:30Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:17:30Z",
+      "type": "mouse_move",
+      "distance_px": 677
+    },
+    {
+      "ts": "2025-08-17T14:17:48Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T14:17:48Z",
+      "type": "mouse_move",
+      "distance_px": 614
+    },
+    {
+      "ts": "2025-08-17T14:18:08Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T14:18:21Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:18:21Z",
+      "type": "scroll",
+      "delta": 285
+    },
+    {
+      "ts": "2025-08-17T14:18:27Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:18:39Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:18:39Z",
+      "type": "mouse_move",
+      "distance_px": 415
+    },
+    {
+      "ts": "2025-08-17T14:18:46Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:18:46Z",
+      "type": "mouse_move",
+      "distance_px": 878
+    },
+    {
+      "ts": "2025-08-17T14:19:07Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:19:13Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:19:26Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T14:19:26Z",
+      "type": "mouse_move",
+      "distance_px": 417
+    },
+    {
+      "ts": "2025-08-17T14:19:26Z",
+      "type": "scroll",
+      "delta": -140
+    },
+    {
+      "ts": "2025-08-17T14:19:39Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T14:19:47Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T14:19:47Z",
+      "type": "mouse_move",
+      "distance_px": 986
+    },
+    {
+      "ts": "2025-08-17T14:20:06Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T14:20:20Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T14:20:32Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T14:20:41Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T14:20:41Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:20:43Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:21:01Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:21:01Z",
+      "type": "mouse_move",
+      "distance_px": 714
+    },
+    {
+      "ts": "2025-08-17T14:21:09Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T14:21:29Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T14:21:43Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T14:21:43Z",
+      "type": "scroll",
+      "delta": -135
+    },
+    {
+      "ts": "2025-08-17T14:21:47Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:21:47Z",
+      "type": "mouse_move",
+      "distance_px": 538
+    },
+    {
+      "ts": "2025-08-17T14:21:47Z",
+      "type": "scroll",
+      "delta": 103
+    },
+    {
+      "ts": "2025-08-17T14:22:09Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T14:22:27Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:22:27Z",
+      "type": "mouse_move",
+      "distance_px": 653
+    },
+    {
+      "ts": "2025-08-17T14:22:46Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:22:48Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:22:56Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T14:22:56Z",
+      "type": "mouse_move",
+      "distance_px": 611
+    },
+    {
+      "ts": "2025-08-17T14:23:08Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:23:08Z",
+      "type": "mouse_move",
+      "distance_px": 284
+    },
+    {
+      "ts": "2025-08-17T14:23:31Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:23:50Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:24:02Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:24:20Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T14:24:20Z",
+      "type": "scroll",
+      "delta": -215
+    },
+    {
+      "ts": "2025-08-17T14:24:38Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:24:38Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:24:52Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:24:52Z",
+      "type": "mouse_move",
+      "distance_px": 328
+    },
+    {
+      "ts": "2025-08-17T14:24:58Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T14:24:58Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:25:02Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T14:25:13Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T14:25:13Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:25:30Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T14:25:54Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T14:25:54Z",
+      "type": "mouse_move",
+      "distance_px": 349
+    },
+    {
+      "ts": "2025-08-17T14:26:10Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T14:26:10Z",
+      "type": "scroll",
+      "delta": 170
+    },
+    {
+      "ts": "2025-08-17T14:26:19Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:26:29Z",
+      "type": "focus_change",
+      "title": "PyCharm",
+      "process": "pycharm"
+    },
+    {
+      "ts": "2025-08-17T14:26:29Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:26:29Z",
+      "type": "mouse_move",
+      "distance_px": 811
+    },
+    {
+      "ts": "2025-08-17T14:26:29Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T14:26:52Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:27:15Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T14:27:15Z",
+      "type": "mouse_move",
+      "distance_px": 592
+    },
+    {
+      "ts": "2025-08-17T14:27:38Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T14:27:38Z",
+      "type": "scroll",
+      "delta": 139
+    },
+    {
+      "ts": "2025-08-17T14:27:56Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T14:28:10Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:28:10Z",
+      "type": "mouse_move",
+      "distance_px": 287
+    },
+    {
+      "ts": "2025-08-17T14:28:25Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T14:28:33Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:28:33Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T14:28:54Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:28:54Z",
+      "type": "mouse_move",
+      "distance_px": 707
+    },
+    {
+      "ts": "2025-08-17T14:28:54Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:28:57Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:29:14Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:29:27Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:29:27Z",
+      "type": "mouse_move",
+      "distance_px": 468
+    },
+    {
+      "ts": "2025-08-17T14:29:34Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:29:34Z",
+      "type": "mouse_move",
+      "distance_px": 553
+    },
+    {
+      "ts": "2025-08-17T14:29:42Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:29:46Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:29:46Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T14:29:50Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:29:56Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:30:16Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:30:16Z",
+      "type": "scroll",
+      "delta": -258
+    },
+    {
+      "ts": "2025-08-17T14:30:37Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T14:30:37Z",
+      "type": "scroll",
+      "delta": -80
+    },
+    {
+      "ts": "2025-08-17T14:30:54Z",
+      "type": "focus_change",
+      "title": "Confluence",
+      "process": "confluence"
+    },
+    {
+      "ts": "2025-08-17T14:30:54Z",
+      "type": "keystroke",
+      "count": 31
+    },
+    {
+      "ts": "2025-08-17T14:30:54Z",
+      "type": "mouse_move",
+      "distance_px": 702
+    },
+    {
+      "ts": "2025-08-17T14:31:06Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:31:06Z",
+      "type": "scroll",
+      "delta": -13
+    },
+    {
+      "ts": "2025-08-17T14:31:22Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:31:22Z",
+      "type": "mouse_move",
+      "distance_px": 517
+    },
+    {
+      "ts": "2025-08-17T14:31:38Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T14:32:01Z",
+      "type": "focus_change",
+      "title": "Chrome - Documentation",
+      "process": "chrome"
+    },
+    {
+      "ts": "2025-08-17T14:32:01Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T14:32:18Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:32:24Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:32:24Z",
+      "type": "mouse_move",
+      "distance_px": 343
+    },
+    {
+      "ts": "2025-08-17T14:32:34Z",
+      "type": "focus_change",
+      "title": "WebStorm",
+      "process": "webstorm"
+    },
+    {
+      "ts": "2025-08-17T14:32:34Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:32:36Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:32:39Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T14:32:59Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T14:32:59Z",
+      "type": "mouse_move",
+      "distance_px": 885
+    },
+    {
+      "ts": "2025-08-17T14:33:19Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:33:19Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:33:23Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T14:33:25Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T14:33:31Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:33:31Z",
+      "type": "mouse_move",
+      "distance_px": 266
+    },
+    {
+      "ts": "2025-08-17T14:33:35Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T14:33:55Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T14:34:03Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:34:03Z",
+      "type": "mouse_move",
+      "distance_px": 23
+    },
+    {
+      "ts": "2025-08-17T14:34:03Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:34:23Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:34:23Z",
+      "type": "mouse_move",
+      "distance_px": 639
+    },
+    {
+      "ts": "2025-08-17T14:34:23Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T14:34:47Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:34:47Z",
+      "type": "scroll",
+      "delta": 300
+    },
+    {
+      "ts": "2025-08-17T14:34:56Z",
+      "type": "keystroke",
+      "count": 31
+    },
+    {
+      "ts": "2025-08-17T14:34:58Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T14:34:58Z",
+      "type": "mouse_move",
+      "distance_px": 538
+    },
+    {
+      "ts": "2025-08-17T14:34:58Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:35:06Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:35:31Z",
+      "type": "focus_change",
+      "title": "Microsoft Teams",
+      "process": "microsoft"
+    },
+    {
+      "ts": "2025-08-17T14:35:31Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:35:31Z",
+      "type": "scroll",
+      "delta": -194
+    },
+    {
+      "ts": "2025-08-17T14:35:40Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T14:35:45Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T14:35:45Z",
+      "type": "mouse_move",
+      "distance_px": 556
+    },
+    {
+      "ts": "2025-08-17T14:35:58Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:36:04Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:36:04Z",
+      "type": "mouse_move",
+      "distance_px": 793
+    },
+    {
+      "ts": "2025-08-17T14:36:20Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:36:20Z",
+      "type": "mouse_move",
+      "distance_px": 477
+    },
+    {
+      "ts": "2025-08-17T14:36:20Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:36:41Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:36:41Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:36:50Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:36:50Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T14:36:50Z",
+      "type": "scroll",
+      "delta": -65
+    },
+    {
+      "ts": "2025-08-17T14:37:09Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:37:09Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:37:18Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:37:29Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:37:29Z",
+      "type": "mouse_move",
+      "distance_px": 118
+    },
+    {
+      "ts": "2025-08-17T14:37:29Z",
+      "type": "scroll",
+      "delta": -18
+    },
+    {
+      "ts": "2025-08-17T14:37:34Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:37:37Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:37:37Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:37:59Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:37:59Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T14:38:11Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:38:31Z",
+      "type": "focus_change",
+      "title": "Discord",
+      "process": "discord"
+    },
+    {
+      "ts": "2025-08-17T14:38:31Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:38:31Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:38:31Z",
+      "type": "scroll",
+      "delta": -2
+    },
+    {
+      "ts": "2025-08-17T14:38:35Z",
+      "type": "focus_change",
+      "title": "Safari - MDN Web Docs",
+      "process": "safari"
+    },
+    {
+      "ts": "2025-08-17T14:38:35Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T14:38:35Z",
+      "type": "mouse_move",
+      "distance_px": 790
+    },
+    {
+      "ts": "2025-08-17T14:38:51Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:38:51Z",
+      "type": "mouse_move",
+      "distance_px": 533
+    },
+    {
+      "ts": "2025-08-17T14:39:06Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T14:39:06Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:39:08Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T14:39:27Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:39:50Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:39:50Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T14:40:07Z",
+      "type": "focus_change",
+      "title": "Microsoft Teams",
+      "process": "microsoft"
+    },
+    {
+      "ts": "2025-08-17T14:40:07Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:40:07Z",
+      "type": "mouse_move",
+      "distance_px": 476
+    },
+    {
+      "ts": "2025-08-17T14:40:24Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T14:40:24Z",
+      "type": "mouse_move",
+      "distance_px": 462
+    },
+    {
+      "ts": "2025-08-17T14:40:43Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:40:43Z",
+      "type": "mouse_move",
+      "distance_px": 473
+    },
+    {
+      "ts": "2025-08-17T14:41:06Z",
+      "type": "keystroke",
+      "count": 3
+    },
+    {
+      "ts": "2025-08-17T14:41:06Z",
+      "type": "mouse_move",
+      "distance_px": 668
+    },
+    {
+      "ts": "2025-08-17T14:41:28Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T14:41:28Z",
+      "type": "scroll",
+      "delta": -30
+    },
+    {
+      "ts": "2025-08-17T14:41:35Z",
+      "type": "focus_change",
+      "title": "Chrome - Documentation",
+      "process": "chrome"
+    },
+    {
+      "ts": "2025-08-17T14:41:35Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:41:35Z",
+      "type": "mouse_move",
+      "distance_px": 491
+    },
+    {
+      "ts": "2025-08-17T14:41:42Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T14:41:42Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:41:55Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:41:57Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:42:00Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:42:09Z",
+      "type": "focus_change",
+      "title": "GitHub Desktop",
+      "process": "github"
+    },
+    {
+      "ts": "2025-08-17T14:42:09Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:42:34Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T14:42:48Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T14:42:50Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T14:42:50Z",
+      "type": "mouse_move",
+      "distance_px": 424
+    },
+    {
+      "ts": "2025-08-17T14:42:50Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:43:11Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:43:11Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:43:17Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:43:30Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:43:36Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:43:55Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:43:55Z",
+      "type": "mouse_move",
+      "distance_px": 575
+    },
+    {
+      "ts": "2025-08-17T14:44:08Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T14:44:27Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:44:27Z",
+      "type": "mouse_move",
+      "distance_px": 566
+    },
+    {
+      "ts": "2025-08-17T14:44:31Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T14:44:45Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:45:01Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:45:01Z",
+      "type": "mouse_move",
+      "distance_px": 232
+    },
+    {
+      "ts": "2025-08-17T14:45:22Z",
+      "type": "keystroke",
+      "count": 29
+    },
+    {
+      "ts": "2025-08-17T14:45:22Z",
+      "type": "mouse_move",
+      "distance_px": 628
+    },
+    {
+      "ts": "2025-08-17T14:45:44Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:46:05Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:46:18Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:46:18Z",
+      "type": "mouse_move",
+      "distance_px": 694
+    },
+    {
+      "ts": "2025-08-17T14:46:40Z",
+      "type": "focus_change",
+      "title": "Microsoft Teams",
+      "process": "microsoft"
+    },
+    {
+      "ts": "2025-08-17T14:46:40Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:47:02Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T14:47:14Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:47:25Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T14:47:27Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:47:27Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:47:37Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:47:47Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T14:47:47Z",
+      "type": "mouse_move",
+      "distance_px": 257
+    },
+    {
+      "ts": "2025-08-17T14:47:47Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:47:55Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T14:48:12Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T14:48:28Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T14:48:47Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:48:49Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:49:05Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T14:49:24Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T14:49:24Z",
+      "type": "mouse_move",
+      "distance_px": 622
+    },
+    {
+      "ts": "2025-08-17T14:49:39Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:50:03Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:50:03Z",
+      "type": "mouse_move",
+      "distance_px": 690
+    },
+    {
+      "ts": "2025-08-17T14:50:22Z",
+      "type": "focus_change",
+      "title": "Adobe Illustrator",
+      "process": "adobe"
+    },
+    {
+      "ts": "2025-08-17T14:50:22Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T14:50:22Z",
+      "type": "mouse_move",
+      "distance_px": 869
+    },
+    {
+      "ts": "2025-08-17T14:50:22Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:50:39Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:50:39Z",
+      "type": "mouse_move",
+      "distance_px": 386
+    },
+    {
+      "ts": "2025-08-17T14:50:52Z",
+      "type": "focus_change",
+      "title": "Microsoft Teams",
+      "process": "microsoft"
+    },
+    {
+      "ts": "2025-08-17T14:50:52Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:51:09Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:51:17Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:51:17Z",
+      "type": "mouse_move",
+      "distance_px": 475
+    },
+    {
+      "ts": "2025-08-17T14:51:22Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:51:22Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T14:51:22Z",
+      "type": "scroll",
+      "delta": -275
+    },
+    {
+      "ts": "2025-08-17T14:51:25Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T14:51:43Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:51:47Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:52:02Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T14:52:11Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:52:27Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:52:27Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:52:52Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:52:52Z",
+      "type": "mouse_move",
+      "distance_px": 473
+    },
+    {
+      "ts": "2025-08-17T14:52:52Z",
+      "type": "scroll",
+      "delta": 203
+    },
+    {
+      "ts": "2025-08-17T14:52:56Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T14:52:56Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T14:53:17Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T14:53:41Z",
+      "type": "focus_change",
+      "title": "Google Docs",
+      "process": "google"
+    },
+    {
+      "ts": "2025-08-17T14:53:41Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T14:54:01Z",
+      "type": "keystroke",
+      "count": 7
+    },
+    {
+      "ts": "2025-08-17T14:54:01Z",
+      "type": "mouse_move",
+      "distance_px": 259
+    },
+    {
+      "ts": "2025-08-17T14:54:24Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:54:24Z",
+      "type": "scroll",
+      "delta": -155
+    },
+    {
+      "ts": "2025-08-17T14:54:26Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T14:54:47Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:55:04Z",
+      "type": "focus_change",
+      "title": "Obsidian",
+      "process": "obsidian"
+    },
+    {
+      "ts": "2025-08-17T14:55:04Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:55:04Z",
+      "type": "mouse_move",
+      "distance_px": 623
+    },
+    {
+      "ts": "2025-08-17T14:55:24Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T14:55:48Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:55:48Z",
+      "type": "mouse_move",
+      "distance_px": 376
+    },
+    {
+      "ts": "2025-08-17T14:56:12Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:56:12Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:56:20Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T14:56:42Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:56:42Z",
+      "type": "mouse_move",
+      "distance_px": 636
+    },
+    {
+      "ts": "2025-08-17T14:56:46Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T14:57:06Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T14:57:06Z",
+      "type": "mouse_move",
+      "distance_px": 420
+    },
+    {
+      "ts": "2025-08-17T14:57:28Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T14:57:42Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:57:42Z",
+      "type": "mouse_move",
+      "distance_px": 516
+    },
+    {
+      "ts": "2025-08-17T14:58:02Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:58:02Z",
+      "type": "scroll",
+      "delta": 100
+    },
+    {
+      "ts": "2025-08-17T14:58:12Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T14:58:12Z",
+      "type": "scroll",
+      "delta": -241
+    },
+    {
+      "ts": "2025-08-17T14:58:33Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T14:58:33Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:58:45Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T14:58:45Z",
+      "type": "mouse_move",
+      "distance_px": 270
+    },
+    {
+      "ts": "2025-08-17T14:58:45Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:59:06Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T14:59:06Z",
+      "type": "mouse_move",
+      "distance_px": 675
+    },
+    {
+      "ts": "2025-08-17T14:59:08Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:59:17Z",
+      "type": "focus_change",
+      "title": "Sublime Text",
+      "process": "sublime"
+    },
+    {
+      "ts": "2025-08-17T14:59:17Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T14:59:17Z",
+      "type": "mouse_move",
+      "distance_px": -93
+    },
+    {
+      "ts": "2025-08-17T14:59:22Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T14:59:22Z",
+      "type": "mouse_move",
+      "distance_px": 723
+    },
+    {
+      "ts": "2025-08-17T14:59:22Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T14:59:47Z",
+      "type": "focus_change",
+      "title": "Cursor",
+      "process": "cursor"
+    },
+    {
+      "ts": "2025-08-17T14:59:47Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T14:59:47Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T14:59:51Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:00:15Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:00:35Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:00:35Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:00:49Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:01:09Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:01:26Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:01:26Z",
+      "type": "mouse_move",
+      "distance_px": 552
+    },
+    {
+      "ts": "2025-08-17T15:01:33Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:01:33Z",
+      "type": "scroll",
+      "delta": -25
+    },
+    {
+      "ts": "2025-08-17T15:01:35Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:01:35Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:01:35Z",
+      "type": "scroll",
+      "delta": 36
+    },
+    {
+      "ts": "2025-08-17T15:01:42Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T15:01:42Z",
+      "type": "mouse_move",
+      "distance_px": 429
+    },
+    {
+      "ts": "2025-08-17T15:01:47Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T15:01:47Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:01:59Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:02:15Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T15:02:15Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:02:15Z",
+      "type": "scroll",
+      "delta": -63
+    },
+    {
+      "ts": "2025-08-17T15:02:17Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:02:17Z",
+      "type": "mouse_move",
+      "distance_px": 369
+    },
+    {
+      "ts": "2025-08-17T15:02:37Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:02:37Z",
+      "type": "scroll",
+      "delta": 255
+    },
+    {
+      "ts": "2025-08-17T15:02:53Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T15:02:53Z",
+      "type": "scroll",
+      "delta": 220
+    },
+    {
+      "ts": "2025-08-17T15:03:01Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:03:01Z",
+      "type": "scroll",
+      "delta": -277
+    },
+    {
+      "ts": "2025-08-17T15:03:24Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:03:44Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:03:44Z",
+      "type": "mouse_move",
+      "distance_px": 607
+    },
+    {
+      "ts": "2025-08-17T15:03:47Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T15:03:47Z",
+      "type": "mouse_move",
+      "distance_px": 312
+    },
+    {
+      "ts": "2025-08-17T15:04:08Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T15:04:08Z",
+      "type": "mouse_move",
+      "distance_px": 554
+    },
+    {
+      "ts": "2025-08-17T15:04:08Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:04:31Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T15:04:31Z",
+      "type": "mouse_move",
+      "distance_px": 198
+    },
+    {
+      "ts": "2025-08-17T15:04:44Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:04:44Z",
+      "type": "mouse_move",
+      "distance_px": 672
+    },
+    {
+      "ts": "2025-08-17T15:04:49Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:05:05Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T15:05:05Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:05:07Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T15:05:27Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T15:05:50Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T15:05:50Z",
+      "type": "mouse_move",
+      "distance_px": 709
+    },
+    {
+      "ts": "2025-08-17T15:05:50Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:06:11Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:06:11Z",
+      "type": "mouse_move",
+      "distance_px": 136
+    },
+    {
+      "ts": "2025-08-17T15:06:34Z",
+      "type": "focus_change",
+      "title": "Todoist",
+      "process": "todoist"
+    },
+    {
+      "ts": "2025-08-17T15:06:34Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T15:06:37Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:06:37Z",
+      "type": "scroll",
+      "delta": -143
+    },
+    {
+      "ts": "2025-08-17T15:06:40Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:06:51Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T15:06:56Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T15:07:00Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:07:00Z",
+      "type": "mouse_move",
+      "distance_px": 445
+    },
+    {
+      "ts": "2025-08-17T15:07:00Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:07:13Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T15:07:13Z",
+      "type": "scroll",
+      "delta": 121
+    },
+    {
+      "ts": "2025-08-17T15:07:23Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:07:23Z",
+      "type": "mouse_move",
+      "distance_px": 483
+    },
+    {
+      "ts": "2025-08-17T15:07:36Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:07:36Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:07:38Z",
+      "type": "focus_change",
+      "title": "GitHub Desktop",
+      "process": "github"
+    },
+    {
+      "ts": "2025-08-17T15:07:38Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:07:52Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T15:07:55Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T15:08:05Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T15:08:23Z",
+      "type": "focus_change",
+      "title": "PyCharm",
+      "process": "pycharm"
+    },
+    {
+      "ts": "2025-08-17T15:08:23Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:08:36Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T15:08:36Z",
+      "type": "mouse_move",
+      "distance_px": 389
+    },
+    {
+      "ts": "2025-08-17T15:09:01Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T15:09:01Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:09:26Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T15:09:47Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T15:09:47Z",
+      "type": "mouse_move",
+      "distance_px": 189
+    },
+    {
+      "ts": "2025-08-17T15:09:47Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:10:11Z",
+      "type": "focus_change",
+      "title": "Firefox - Reddit Programming",
+      "process": "firefox"
+    },
+    {
+      "ts": "2025-08-17T15:10:11Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T15:10:23Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T15:10:36Z",
+      "type": "focus_change",
+      "title": "WebStorm",
+      "process": "webstorm"
+    },
+    {
+      "ts": "2025-08-17T15:10:36Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T15:10:36Z",
+      "type": "mouse_move",
+      "distance_px": 975
+    },
+    {
+      "ts": "2025-08-17T15:10:42Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T15:10:49Z",
+      "type": "keystroke",
+      "count": 30
+    },
+    {
+      "ts": "2025-08-17T15:10:49Z",
+      "type": "mouse_move",
+      "distance_px": 346
+    },
+    {
+      "ts": "2025-08-17T15:11:03Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:11:03Z",
+      "type": "scroll",
+      "delta": -256
+    },
+    {
+      "ts": "2025-08-17T15:11:23Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:11:32Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:11:32Z",
+      "type": "scroll",
+      "delta": -297
+    },
+    {
+      "ts": "2025-08-17T15:11:47Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T15:11:47Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:11:57Z",
+      "type": "keystroke",
+      "count": 30
+    },
+    {
+      "ts": "2025-08-17T15:11:57Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:12:09Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:12:09Z",
+      "type": "mouse_move",
+      "distance_px": 436
+    },
+    {
+      "ts": "2025-08-17T15:12:21Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:12:40Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T15:12:40Z",
+      "type": "mouse_move",
+      "distance_px": 332
+    },
+    {
+      "ts": "2025-08-17T15:12:40Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:12:57Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T15:13:07Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:13:23Z",
+      "type": "focus_change",
+      "title": "Terminal",
+      "process": "terminal"
+    },
+    {
+      "ts": "2025-08-17T15:13:23Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:13:42Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:14:04Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:14:14Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T15:14:14Z",
+      "type": "mouse_move",
+      "distance_px": 269
+    },
+    {
+      "ts": "2025-08-17T15:14:14Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:14:31Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T15:14:31Z",
+      "type": "mouse_move",
+      "distance_px": 356
+    },
+    {
+      "ts": "2025-08-17T15:14:31Z",
+      "type": "scroll",
+      "delta": 209
+    },
+    {
+      "ts": "2025-08-17T15:14:39Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T15:14:39Z",
+      "type": "mouse_move",
+      "distance_px": 397
+    },
+    {
+      "ts": "2025-08-17T15:14:55Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:14:55Z",
+      "type": "scroll",
+      "delta": -261
+    },
+    {
+      "ts": "2025-08-17T15:15:03Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T15:15:22Z",
+      "type": "focus_change",
+      "title": "WebStorm",
+      "process": "webstorm"
+    },
+    {
+      "ts": "2025-08-17T15:15:22Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:15:22Z",
+      "type": "mouse_move",
+      "distance_px": 561
+    },
+    {
+      "ts": "2025-08-17T15:15:22Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:15:47Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T15:15:55Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T15:15:55Z",
+      "type": "mouse_move",
+      "distance_px": 431
+    },
+    {
+      "ts": "2025-08-17T15:16:09Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:16:22Z",
+      "type": "focus_change",
+      "title": "Visual Studio Code",
+      "process": "visual"
+    },
+    {
+      "ts": "2025-08-17T15:16:22Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:16:42Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:16:42Z",
+      "type": "mouse_move",
+      "distance_px": 531
+    },
+    {
+      "ts": "2025-08-17T15:16:56Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:16:56Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:17:20Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T15:17:20Z",
+      "type": "mouse_move",
+      "distance_px": 726
+    },
+    {
+      "ts": "2025-08-17T15:17:42Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:17:42Z",
+      "type": "mouse_move",
+      "distance_px": 767
+    },
+    {
+      "ts": "2025-08-17T15:18:00Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:18:17Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:18:26Z",
+      "type": "keystroke",
+      "count": 30
+    },
+    {
+      "ts": "2025-08-17T15:18:26Z",
+      "type": "scroll",
+      "delta": -90
+    },
+    {
+      "ts": "2025-08-17T15:18:42Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:19:05Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:19:24Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:19:24Z",
+      "type": "mouse_move",
+      "distance_px": 103
+    },
+    {
+      "ts": "2025-08-17T15:19:33Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T15:19:33Z",
+      "type": "scroll",
+      "delta": -278
+    },
+    {
+      "ts": "2025-08-17T15:19:51Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:19:51Z",
+      "type": "mouse_move",
+      "distance_px": 306
+    },
+    {
+      "ts": "2025-08-17T15:19:51Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:20:15Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T15:20:37Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:20:59Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:21:17Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T15:21:32Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T15:21:32Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:21:55Z",
+      "type": "focus_change",
+      "title": "Firefox - Reddit Programming",
+      "process": "firefox"
+    },
+    {
+      "ts": "2025-08-17T15:21:55Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:22:12Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:22:26Z",
+      "type": "focus_change",
+      "title": "Cursor",
+      "process": "cursor"
+    },
+    {
+      "ts": "2025-08-17T15:22:26Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T15:22:26Z",
+      "type": "mouse_move",
+      "distance_px": 353
+    },
+    {
+      "ts": "2025-08-17T15:22:29Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:22:29Z",
+      "type": "mouse_move",
+      "distance_px": 384
+    },
+    {
+      "ts": "2025-08-17T15:22:29Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:22:35Z",
+      "type": "focus_change",
+      "title": "Microsoft Word",
+      "process": "microsoft"
+    },
+    {
+      "ts": "2025-08-17T15:22:35Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:22:35Z",
+      "type": "mouse_move",
+      "distance_px": 575
+    },
+    {
+      "ts": "2025-08-17T15:22:35Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:22:37Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T15:22:37Z",
+      "type": "scroll",
+      "delta": 238
+    },
+    {
+      "ts": "2025-08-17T15:22:49Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:23:02Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:23:27Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:23:27Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:23:33Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:23:33Z",
+      "type": "mouse_move",
+      "distance_px": 506
+    },
+    {
+      "ts": "2025-08-17T15:23:52Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:23:52Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:24:08Z",
+      "type": "focus_change",
+      "title": "Jira",
+      "process": "jira"
+    },
+    {
+      "ts": "2025-08-17T15:24:08Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:24:28Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:24:50Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:25:05Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:25:05Z",
+      "type": "scroll",
+      "delta": -126
+    },
+    {
+      "ts": "2025-08-17T15:25:16Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:25:25Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T15:25:25Z",
+      "type": "mouse_move",
+      "distance_px": 596
+    },
+    {
+      "ts": "2025-08-17T15:25:50Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T15:25:50Z",
+      "type": "scroll",
+      "delta": -153
+    },
+    {
+      "ts": "2025-08-17T15:26:05Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:26:05Z",
+      "type": "mouse_move",
+      "distance_px": 541
+    },
+    {
+      "ts": "2025-08-17T15:26:05Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:26:07Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:26:07Z",
+      "type": "mouse_move",
+      "distance_px": 183
+    },
+    {
+      "ts": "2025-08-17T15:26:28Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T15:26:28Z",
+      "type": "mouse_move",
+      "distance_px": 490
+    },
+    {
+      "ts": "2025-08-17T15:26:28Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:26:47Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:26:49Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:26:49Z",
+      "type": "mouse_move",
+      "distance_px": 671
+    },
+    {
+      "ts": "2025-08-17T15:26:52Z",
+      "type": "focus_change",
+      "title": "Notion",
+      "process": "notion"
+    },
+    {
+      "ts": "2025-08-17T15:26:52Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T15:26:52Z",
+      "type": "mouse_move",
+      "distance_px": 434
+    },
+    {
+      "ts": "2025-08-17T15:27:03Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:27:03Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:27:15Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T15:27:31Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T15:27:35Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:27:35Z",
+      "type": "mouse_move",
+      "distance_px": 588
+    },
+    {
+      "ts": "2025-08-17T15:27:47Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:27:50Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:28:07Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T15:28:07Z",
+      "type": "scroll",
+      "delta": 225
+    },
+    {
+      "ts": "2025-08-17T15:28:17Z",
+      "type": "focus_change",
+      "title": "Telegram",
+      "process": "telegram"
+    },
+    {
+      "ts": "2025-08-17T15:28:17Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:28:17Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:28:24Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:28:38Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:28:38Z",
+      "type": "scroll",
+      "delta": -14
+    },
+    {
+      "ts": "2025-08-17T15:28:43Z",
+      "type": "focus_change",
+      "title": "Excel",
+      "process": "excel"
+    },
+    {
+      "ts": "2025-08-17T15:28:43Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:28:43Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:28:58Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:29:03Z",
+      "type": "focus_change",
+      "title": "Notion",
+      "process": "notion"
+    },
+    {
+      "ts": "2025-08-17T15:29:03Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T15:29:03Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:29:20Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T15:29:30Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:29:30Z",
+      "type": "mouse_move",
+      "distance_px": 157
+    },
+    {
+      "ts": "2025-08-17T15:29:30Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:29:37Z",
+      "type": "focus_change",
+      "title": "Visual Studio Code",
+      "process": "visual"
+    },
+    {
+      "ts": "2025-08-17T15:29:37Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:29:43Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T15:29:43Z",
+      "type": "mouse_move",
+      "distance_px": 430
+    },
+    {
+      "ts": "2025-08-17T15:29:54Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:29:54Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:30:09Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:30:24Z",
+      "type": "keystroke",
+      "count": 5
+    },
+    {
+      "ts": "2025-08-17T15:30:45Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T15:30:58Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:30:58Z",
+      "type": "scroll",
+      "delta": 295
+    },
+    {
+      "ts": "2025-08-17T15:31:18Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:31:18Z",
+      "type": "mouse_move",
+      "distance_px": 686
+    },
+    {
+      "ts": "2025-08-17T15:31:18Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:31:34Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:31:44Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:31:44Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:31:59Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:32:19Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:32:22Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T15:32:22Z",
+      "type": "mouse_move",
+      "distance_px": 852
+    },
+    {
+      "ts": "2025-08-17T15:32:31Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T15:32:31Z",
+      "type": "mouse_move",
+      "distance_px": 499
+    },
+    {
+      "ts": "2025-08-17T15:32:31Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:32:56Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T15:33:11Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:33:27Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:33:27Z",
+      "type": "mouse_move",
+      "distance_px": 550
+    },
+    {
+      "ts": "2025-08-17T15:33:50Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T15:33:50Z",
+      "type": "mouse_move",
+      "distance_px": 544
+    },
+    {
+      "ts": "2025-08-17T15:34:05Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:34:05Z",
+      "type": "mouse_move",
+      "distance_px": 410
+    },
+    {
+      "ts": "2025-08-17T15:34:05Z",
+      "type": "scroll",
+      "delta": 185
+    },
+    {
+      "ts": "2025-08-17T15:34:11Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:34:29Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T15:34:47Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:34:47Z",
+      "type": "mouse_move",
+      "distance_px": 386
+    },
+    {
+      "ts": "2025-08-17T15:35:08Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:35:08Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:35:19Z",
+      "type": "focus_change",
+      "title": "Jira",
+      "process": "jira"
+    },
+    {
+      "ts": "2025-08-17T15:35:19Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T15:35:40Z",
+      "type": "keystroke",
+      "count": 1
+    },
+    {
+      "ts": "2025-08-17T15:36:02Z",
+      "type": "keystroke",
+      "count": 5
+    },
+    {
+      "ts": "2025-08-17T15:36:02Z",
+      "type": "mouse_move",
+      "distance_px": 598
+    },
+    {
+      "ts": "2025-08-17T15:36:02Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:36:02Z",
+      "type": "scroll",
+      "delta": 240
+    },
+    {
+      "ts": "2025-08-17T15:36:27Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:36:27Z",
+      "type": "mouse_move",
+      "distance_px": 450
+    },
+    {
+      "ts": "2025-08-17T15:36:52Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:37:03Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:37:19Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T15:37:19Z",
+      "type": "mouse_move",
+      "distance_px": 499
+    },
+    {
+      "ts": "2025-08-17T15:37:22Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:37:22Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:37:32Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:37:46Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:37:46Z",
+      "type": "mouse_move",
+      "distance_px": 517
+    },
+    {
+      "ts": "2025-08-17T15:38:08Z",
+      "type": "keystroke",
+      "count": 31
+    },
+    {
+      "ts": "2025-08-17T15:38:15Z",
+      "type": "focus_change",
+      "title": "Chrome - Dev.to",
+      "process": "chrome"
+    },
+    {
+      "ts": "2025-08-17T15:38:15Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:38:15Z",
+      "type": "mouse_move",
+      "distance_px": 358
+    },
+    {
+      "ts": "2025-08-17T15:38:38Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:39:00Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T15:39:00Z",
+      "type": "mouse_move",
+      "distance_px": 563
+    },
+    {
+      "ts": "2025-08-17T15:39:10Z",
+      "type": "focus_change",
+      "title": "Safari - MDN Web Docs",
+      "process": "safari"
+    },
+    {
+      "ts": "2025-08-17T15:39:10Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:39:10Z",
+      "type": "scroll",
+      "delta": -58
+    },
+    {
+      "ts": "2025-08-17T15:39:18Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:39:23Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T15:39:23Z",
+      "type": "mouse_move",
+      "distance_px": 149
+    },
+    {
+      "ts": "2025-08-17T15:39:41Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:39:49Z",
+      "type": "mouse_move",
+      "distance_px": 975
+    },
+    {
+      "ts": "2025-08-17T15:39:55Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:40:07Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:40:07Z",
+      "type": "mouse_move",
+      "distance_px": 867
+    },
+    {
+      "ts": "2025-08-17T15:40:07Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:40:11Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:40:11Z",
+      "type": "mouse_move",
+      "distance_px": 657
+    },
+    {
+      "ts": "2025-08-17T15:40:36Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:40:59Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:41:13Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T15:41:26Z",
+      "type": "focus_change",
+      "title": "Chrome - YouTube Tutorial",
+      "process": "chrome"
+    },
+    {
+      "ts": "2025-08-17T15:41:26Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T15:41:40Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:41:40Z",
+      "type": "mouse_move",
+      "distance_px": 311
+    },
+    {
+      "ts": "2025-08-17T15:41:52Z",
+      "type": "focus_change",
+      "title": "Firefox - GitHub",
+      "process": "firefox"
+    },
+    {
+      "ts": "2025-08-17T15:41:52Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:42:07Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:42:07Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:42:15Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:42:21Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:42:30Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T15:42:30Z",
+      "type": "mouse_move",
+      "distance_px": 833
+    },
+    {
+      "ts": "2025-08-17T15:42:43Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T15:42:43Z",
+      "type": "mouse_move",
+      "distance_px": 676
+    },
+    {
+      "ts": "2025-08-17T15:42:43Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:42:56Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:43:07Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:43:16Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:43:16Z",
+      "type": "mouse_move",
+      "distance_px": 499
+    },
+    {
+      "ts": "2025-08-17T15:43:16Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:43:40Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:43:52Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:44:10Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:44:12Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:44:12Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:44:28Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T15:44:28Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:44:52Z",
+      "type": "focus_change",
+      "title": "Blender",
+      "process": "blender"
+    },
+    {
+      "ts": "2025-08-17T15:44:52Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:44:58Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:44:58Z",
+      "type": "scroll",
+      "delta": 275
+    },
+    {
+      "ts": "2025-08-17T15:45:17Z",
+      "type": "keystroke",
+      "count": 29
+    },
+    {
+      "ts": "2025-08-17T15:45:39Z",
+      "type": "keystroke",
+      "count": 32
+    },
+    {
+      "ts": "2025-08-17T15:45:39Z",
+      "type": "mouse_move",
+      "distance_px": 184
+    },
+    {
+      "ts": "2025-08-17T15:45:39Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:46:01Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:46:01Z",
+      "type": "mouse_move",
+      "distance_px": 617
+    },
+    {
+      "ts": "2025-08-17T15:46:22Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T15:46:22Z",
+      "type": "mouse_move",
+      "distance_px": 558
+    },
+    {
+      "ts": "2025-08-17T15:46:22Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:46:29Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:46:29Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:46:29Z",
+      "type": "scroll",
+      "delta": 282
+    },
+    {
+      "ts": "2025-08-17T15:46:38Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:46:46Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:46:58Z",
+      "type": "focus_change",
+      "title": "iTerm2",
+      "process": "iterm2"
+    },
+    {
+      "ts": "2025-08-17T15:46:58Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T15:47:16Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T15:47:23Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:47:33Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T15:47:49Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:47:49Z",
+      "type": "mouse_move",
+      "distance_px": 309
+    },
+    {
+      "ts": "2025-08-17T15:47:53Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:47:53Z",
+      "type": "mouse_move",
+      "distance_px": 674
+    },
+    {
+      "ts": "2025-08-17T15:47:56Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:47:56Z",
+      "type": "mouse_move",
+      "distance_px": 979
+    },
+    {
+      "ts": "2025-08-17T15:48:13Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:48:16Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:48:31Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:48:31Z",
+      "type": "mouse_move",
+      "distance_px": 531
+    },
+    {
+      "ts": "2025-08-17T15:48:52Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:49:16Z",
+      "type": "keystroke",
+      "count": 9
+    },
+    {
+      "ts": "2025-08-17T15:49:16Z",
+      "type": "mouse_move",
+      "distance_px": 218
+    },
+    {
+      "ts": "2025-08-17T15:49:20Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T15:49:36Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T15:49:45Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T15:50:00Z",
+      "type": "keystroke",
+      "count": 28
+    },
+    {
+      "ts": "2025-08-17T15:50:07Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T15:50:31Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T15:50:56Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T15:50:56Z",
+      "type": "mouse_move",
+      "distance_px": 685
+    },
+    {
+      "ts": "2025-08-17T15:50:56Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:51:02Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:51:02Z",
+      "type": "mouse_move",
+      "distance_px": 628
+    },
+    {
+      "ts": "2025-08-17T15:51:02Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:51:08Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:51:08Z",
+      "type": "mouse_move",
+      "distance_px": 509
+    },
+    {
+      "ts": "2025-08-17T15:51:29Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:51:29Z",
+      "type": "mouse_move",
+      "distance_px": 282
+    },
+    {
+      "ts": "2025-08-17T15:51:37Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:51:48Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:51:59Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:51:59Z",
+      "type": "mouse_move",
+      "distance_px": 742
+    },
+    {
+      "ts": "2025-08-17T15:52:23Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:52:23Z",
+      "type": "mouse_move",
+      "distance_px": 381
+    },
+    {
+      "ts": "2025-08-17T15:52:35Z",
+      "type": "focus_change",
+      "title": "Chrome - Dev.to",
+      "process": "chrome"
+    },
+    {
+      "ts": "2025-08-17T15:52:35Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:52:41Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T15:52:51Z",
+      "type": "keystroke",
+      "count": 11
+    },
+    {
+      "ts": "2025-08-17T15:52:51Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:53:13Z",
+      "type": "keystroke",
+      "count": 8
+    },
+    {
+      "ts": "2025-08-17T15:53:13Z",
+      "type": "mouse_move",
+      "distance_px": -51
+    },
+    {
+      "ts": "2025-08-17T15:53:24Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:53:24Z",
+      "type": "scroll",
+      "delta": -294
+    },
+    {
+      "ts": "2025-08-17T15:53:27Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T15:53:27Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:53:40Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:53:59Z",
+      "type": "keystroke",
+      "count": 24
+    },
+    {
+      "ts": "2025-08-17T15:54:09Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:54:09Z",
+      "type": "mouse_move",
+      "distance_px": 521
+    },
+    {
+      "ts": "2025-08-17T15:54:28Z",
+      "type": "keystroke",
+      "count": 26
+    },
+    {
+      "ts": "2025-08-17T15:54:28Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:54:44Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T15:54:44Z",
+      "type": "mouse_move",
+      "distance_px": 708
+    },
+    {
+      "ts": "2025-08-17T15:54:59Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T15:54:59Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:55:08Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:55:08Z",
+      "type": "mouse_move",
+      "distance_px": 273
+    },
+    {
+      "ts": "2025-08-17T15:55:22Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T15:55:22Z",
+      "type": "mouse_move",
+      "distance_px": 512
+    },
+    {
+      "ts": "2025-08-17T15:55:28Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:55:42Z",
+      "type": "keystroke",
+      "count": 30
+    },
+    {
+      "ts": "2025-08-17T15:55:42Z",
+      "type": "scroll",
+      "delta": -267
+    },
+    {
+      "ts": "2025-08-17T15:55:44Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:55:44Z",
+      "type": "mouse_move",
+      "distance_px": 432
+    },
+    {
+      "ts": "2025-08-17T15:56:06Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T15:56:06Z",
+      "type": "mouse_move",
+      "distance_px": 717
+    },
+    {
+      "ts": "2025-08-17T15:56:09Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:56:11Z",
+      "type": "keystroke",
+      "count": 22
+    },
+    {
+      "ts": "2025-08-17T15:56:11Z",
+      "type": "mouse_move",
+      "distance_px": 207
+    },
+    {
+      "ts": "2025-08-17T15:56:14Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T15:56:33Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:56:35Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T15:56:53Z",
+      "type": "keystroke",
+      "count": 25
+    },
+    {
+      "ts": "2025-08-17T15:57:14Z",
+      "type": "keystroke",
+      "count": 31
+    },
+    {
+      "ts": "2025-08-17T15:57:14Z",
+      "type": "mouse_move",
+      "distance_px": 471
+    },
+    {
+      "ts": "2025-08-17T15:57:28Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T15:57:28Z",
+      "type": "mouse_move",
+      "distance_px": 395
+    },
+    {
+      "ts": "2025-08-17T15:57:47Z",
+      "type": "focus_change",
+      "title": "Firefox - Reddit Programming",
+      "process": "firefox"
+    },
+    {
+      "ts": "2025-08-17T15:57:47Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T15:57:47Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:58:01Z",
+      "type": "focus_change",
+      "title": "WebStorm",
+      "process": "webstorm"
+    },
+    {
+      "ts": "2025-08-17T15:58:01Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T15:58:26Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T15:58:30Z",
+      "type": "keystroke",
+      "count": 10
+    },
+    {
+      "ts": "2025-08-17T15:58:30Z",
+      "type": "mouse_move",
+      "distance_px": 672
+    },
+    {
+      "ts": "2025-08-17T15:58:52Z",
+      "type": "keystroke",
+      "count": 2
+    },
+    {
+      "ts": "2025-08-17T15:58:52Z",
+      "type": "mouse_move",
+      "distance_px": 228
+    },
+    {
+      "ts": "2025-08-17T15:58:52Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T15:59:16Z",
+      "type": "keystroke",
+      "count": 6
+    },
+    {
+      "ts": "2025-08-17T15:59:26Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:59:26Z",
+      "type": "mouse_click",
+      "button": "right"
+    },
+    {
+      "ts": "2025-08-17T15:59:39Z",
+      "type": "keystroke",
+      "count": 23
+    },
+    {
+      "ts": "2025-08-17T15:59:42Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:59:42Z",
+      "type": "mouse_move",
+      "distance_px": 613
+    },
+    {
+      "ts": "2025-08-17T15:59:50Z",
+      "type": "keystroke",
+      "count": 17
+    },
+    {
+      "ts": "2025-08-17T15:59:50Z",
+      "type": "mouse_move",
+      "distance_px": 603
+    },
+    {
+      "ts": "2025-08-17T15:59:50Z",
+      "type": "scroll",
+      "delta": 229
+    },
+    {
+      "ts": "2025-08-17T16:00:08Z",
+      "type": "focus_change",
+      "title": "Firefox - GitHub",
+      "process": "firefox"
+    },
+    {
+      "ts": "2025-08-17T16:00:08Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T16:00:12Z",
+      "type": "keystroke",
+      "count": 27
+    },
+    {
+      "ts": "2025-08-17T16:00:12Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T16:00:31Z",
+      "type": "focus_change",
+      "title": "Edge - Microsoft Docs",
+      "process": "edge"
+    },
+    {
+      "ts": "2025-08-17T16:00:31Z",
+      "type": "keystroke",
+      "count": 15
+    },
+    {
+      "ts": "2025-08-17T16:00:31Z",
+      "type": "mouse_move",
+      "distance_px": 574
+    },
+    {
+      "ts": "2025-08-17T16:00:31Z",
+      "type": "mouse_click",
+      "button": "left"
+    },
+    {
+      "ts": "2025-08-17T16:00:41Z",
+      "type": "keystroke",
+      "count": 16
+    },
+    {
+      "ts": "2025-08-17T16:00:41Z",
+      "type": "mouse_move",
+      "distance_px": 530
+    },
+    {
+      "ts": "2025-08-17T16:00:43Z",
+      "type": "keystroke",
+      "count": 13
+    },
+    {
+      "ts": "2025-08-17T16:01:08Z",
+      "type": "keystroke",
+      "count": 19
+    },
+    {
+      "ts": "2025-08-17T16:01:15Z",
+      "type": "keystroke",
+      "count": 21
+    },
+    {
+      "ts": "2025-08-17T16:01:35Z",
+      "type": "focus_change",
+      "title": "Excel",
+      "process": "excel"
+    },
+    {
+      "ts": "2025-08-17T16:01:35Z",
+      "type": "keystroke",
+      "count": 20
+    },
+    {
+      "ts": "2025-08-17T16:01:35Z",
+      "type": "mouse_move",
+      "distance_px": 296
+    },
+    {
+      "ts": "2025-08-17T16:01:57Z",
+      "type": "keystroke",
+      "count": 31
+    },
+    {
+      "ts": "2025-08-17T16:02:12Z",
+      "type": "keystroke",
+      "count": 14
+    },
+    {
+      "ts": "2025-08-17T16:02:12Z",
+      "type": "mouse_move",
+      "distance_px": 276
+    },
+    {
+      "ts": "2025-08-17T16:02:12Z",
+      "type": "scroll",
+      "delta": -220
+    },
+    {
+      "ts": "2025-08-17T16:02:36Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T16:02:50Z",
+      "type": "keystroke",
+      "count": 18
+    },
+    {
+      "ts": "2025-08-17T16:03:09Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T16:03:09Z",
+      "type": "mouse_move",
+      "distance_px": 762
+    },
+    {
+      "ts": "2025-08-17T16:03:25Z",
+      "type": "keystroke",
+      "count": 12
+    },
+    {
+      "ts": "2025-08-17T16:03:25Z",
+      "type": "mouse_move",
+      "distance_px": 758
+    },
+    {
+      "ts": "2025-08-17T16:03:49Z",
+      "type": "keystroke",
+      "count": 18
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "groups": [
+    {
+      "id": "development",
+      "name": "Development"
+    },
+    {
+      "id": "design",
+      "name": "Design"
+    },
+    {
+      "id": "documentation",
+      "name": "Documentation"
+    },
+    {
+      "id": "devops",
+      "name": "DevOps"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "task-1",
+      "title": "Refactor authentication module",
+      "description": "Update the auth system to use JWT tokens instead of session-based auth. Includes updating middleware and adding refresh token logic.",
+      "status": "in-progress",
+      "priority": "high",
+      "group": "development",
+      "createdAt": "2025-01-15T09:00:00Z",
+      "dueDate": "2025-02-01T17:00:00Z",
+      "tags": [
+        "backend",
+        "security",
+        "refactoring"
+      ]
+    },
+    {
+      "id": "task-2",
+      "title": "Design new dashboard UI",
+      "description": "Create mockups for the analytics dashboard redesign. Focus on data visualization and user experience improvements.",
+      "status": "completed",
+      "priority": "medium",
+      "group": "design",
+      "createdAt": "2025-01-10T10:30:00Z",
+      "completedAt": "2025-01-28T16:45:00Z",
+      "tags": [
+        "ui",
+        "design",
+        "figma"
+      ]
+    },
+    {
+      "id": "task-3",
+      "title": "Write API documentation",
+      "description": "Document all REST API endpoints with examples, request/response schemas, and authentication requirements.",
+      "status": "in-progress",
+      "priority": "medium",
+      "group": "documentation",
+      "createdAt": "2025-01-20T14:00:00Z",
+      "dueDate": "2025-02-15T17:00:00Z",
+      "tags": [
+        "docs",
+        "api",
+        "technical-writing"
+      ]
+    },
+    {
+      "id": "task-4",
+      "title": "Fix mobile responsiveness issues",
+      "description": "Address layout breaking on mobile devices, particularly on screens smaller than 375px. Test on iOS and Android.",
+      "status": "todo",
+      "priority": "high",
+      "group": "development",
+      "createdAt": "2025-02-01T11:15:00Z",
+      "dueDate": "2025-02-10T17:00:00Z",
+      "tags": [
+        "frontend",
+        "mobile",
+        "css",
+        "bug"
+      ]
+    },
+    {
+      "id": "task-5",
+      "title": "Optimize database queries",
+      "description": "Identify and optimize slow queries. Add proper indexes and consider implementing query caching for frequently accessed data.",
+      "status": "in-progress",
+      "priority": "high",
+      "group": "development",
+      "createdAt": "2025-01-25T08:30:00Z",
+      "dueDate": "2025-02-08T17:00:00Z",
+      "tags": [
+        "backend",
+        "database",
+        "performance"
+      ]
+    },
+    {
+      "id": "task-6",
+      "title": "Set up CI/CD pipeline",
+      "description": "Configure GitHub Actions for automated testing and deployment. Include linting, unit tests, and staging deployment.",
+      "status": "completed",
+      "priority": "medium",
+      "group": "devops",
+      "createdAt": "2025-01-05T09:00:00Z",
+      "completedAt": "2025-01-18T15:30:00Z",
+      "tags": [
+        "devops",
+        "automation",
+        "github-actions"
+      ]
+    },
+    {
+      "id": "task-8",
+      "title": "Code review: Payment integration",
+      "description": "Review the new Stripe payment integration PR. Check error handling, security, and test coverage.",
+      "status": "in-progress",
+      "priority": "high",
+      "group": "development",
+      "createdAt": "2025-02-08T13:00:00Z",
+      "dueDate": "2025-02-12T17:00:00Z",
+      "tags": [
+        "review",
+        "payments",
+        "security"
+      ]
+    },
+    {
+      "id": "task-7",
+      "title": "Implement dark mode",
+      "description": "Add system-wide dark mode support with smooth transitions and user preference persistence.",
+      "status": "todo",
+      "priority": "low",
+      "group": "development",
+      "createdAt": "2025-02-05T10:00:00Z",
+      "tags": [
+        "frontend",
+        "ui",
+        "feature"
+      ]
+    }
+  ]
+}

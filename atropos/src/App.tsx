@@ -37,7 +37,7 @@ function App() {
   };
 
   return (
-    <div className="w-full h-screen bg-[var(--bg-current)] text-[var(--text-current)] overflow-hidden relative selection:bg-[var(--accent-current)] selection:text-white">
+    <div className="w-full h-screen bg-[var(--bg-current)] text-[var(--text-current)] relative selection:bg-[var(--accent-current)] selection:text-white">
 
       {/* Cinematic Page Transitions */}
       <AnimatePresence mode="wait">

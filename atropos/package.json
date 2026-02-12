@@ -60,21 +60,6 @@
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true
     },
-    "mac": {
-      "target": [
-        "dmg"
-      ],
-      "icon": "public/icon.icns",
-      "category": "public.app-category.productivity"
-    },
-    "linux": {
-      "target": [
-        "AppImage",
-        "deb"
-      ],
-      "icon": "public/icon.png",
-      "category": "Utility"
-    },
     "publish": [
       {
         "provider": "github",

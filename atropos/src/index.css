@@ -36,8 +36,8 @@ body,
   height: 100vh;
   /* Force full viewport height */
   width: 100vw;
-  overflow: hidden;
-  /* STOP page scrolling */
+  overflow: auto;
+  /* Allow page scrolling */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
